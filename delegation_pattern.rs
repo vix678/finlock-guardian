@@ -2,3 +2,4 @@
 // Fix compatibility issues with major wallets
 // Refactor staking logic
 // Optimize contract upgrade process
+// Fix errors in NFT minting logic
