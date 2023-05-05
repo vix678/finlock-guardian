@@ -2,3 +2,4 @@
 // Add native support for staking mechanisms
 // Refactor validator reward system
 // Fix governance proposal approval logic
+// Fix vulnerabilities in staking contracts
