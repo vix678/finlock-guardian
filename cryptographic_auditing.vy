@@ -1,2 +1,3 @@
 // Integrate IPFS for storage
 // Enhance off-chain data processing
+// Add support for decentralized marketplaces
