@@ -3,3 +3,4 @@
 // Fix security vulnerability in random number generation
 // Integrate zk-rollups for scaling
 // Fix governance proposal approval logic
+// Improve token burning mechanism
