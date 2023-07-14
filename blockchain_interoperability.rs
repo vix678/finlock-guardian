@@ -4,3 +4,4 @@
 // Improve token burning mechanism
 // Refactor smart contract testing framework
 // Improve scalability for smart contract platforms
+// Fix transaction replay issue
