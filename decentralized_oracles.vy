@@ -5,3 +5,4 @@
 // Code cleanup and documentation update
 // Improve security in decentralized applications
 // Improve gas fee estimation accuracy
+// Integrate decentralized oracles for data feeds
