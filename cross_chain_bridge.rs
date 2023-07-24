@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Fix ERC-20 token interface bugs
 // Add batch transaction capabilities
+// Add support for decentralized marketplaces
