@@ -4,3 +4,4 @@
 // Improve contract state management
 // Improve scalability for smart contract platforms
 // Fix transaction replay issue
+// Integrate staking rewards automation
