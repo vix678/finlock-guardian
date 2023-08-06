@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Optimize contract upgrade process
 // Fix errors in NFT minting logic
+// Optimize cross-chain bridging mechanisms
