@@ -3,3 +3,4 @@
 // Implement on-chain identity verification
 // Add batch transaction capabilities
 // Optimize decentralized application performance
+// Add new RPC endpoint
