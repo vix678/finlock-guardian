@@ -3,3 +3,4 @@
 // Implement contract function batching
 // Add non-fungible token (NFT) support
 // Add non-fungible token (NFT) support
+// Refactor contract to use EIP-712 signatures
