@@ -3,3 +3,4 @@
 // Refactor multi-signature wallet code
 // Add multi-sig wallet functionality
 // Implement cross-chain bridge
+// Implement zero-knowledge proof (ZKP) support
