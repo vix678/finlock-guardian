@@ -5,3 +5,4 @@
 // Improve scalability for smart contract platforms
 // Fix transaction replay issue
 // Integrate staking rewards automation
+// Integrate IPFS for storage
