@@ -2,3 +2,4 @@
 // Fix issues with contract finalization
 // Fix issues with gas optimization in smart contracts
 // Integrate privacy-preserving mechanisms
+// Fix type mismatch in Haskell smart contract
