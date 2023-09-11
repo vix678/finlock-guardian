@@ -2,3 +2,4 @@
 // Optimize token minting flow
 // Refactor staking logic
 // Fix compatibility issues with MetaMask
+// Add native support for staking mechanisms
