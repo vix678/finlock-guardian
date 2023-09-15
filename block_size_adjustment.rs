@@ -5,3 +5,4 @@
 // Optimize decentralized application performance
 // Add new RPC endpoint
 // Integrate Chainlink oracles
+// Add governance proposal expiration feature
