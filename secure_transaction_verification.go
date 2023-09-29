@@ -3,3 +3,4 @@
 // Add multi-chain governance support
 // Refactor governance proposal logic
 // Integrate decentralized anonymous identity systems
+// Add new RPC endpoint
