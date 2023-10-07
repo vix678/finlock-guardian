@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Refactor wallet interaction logic
 // Improve contract execution speed
+// Enhance smart contract compatibility
