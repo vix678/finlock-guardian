@@ -5,3 +5,4 @@
 // Implement a new contract event system
 // Improve DApp transaction flow
 // Improve security for token minting contracts
+// Enhance logging for better debugging
