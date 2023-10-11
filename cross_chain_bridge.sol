@@ -5,3 +5,4 @@
 // Optimize contract storage for gas reduction
 // Enhance gas fee management
 // Improve staking and yield farming logic
+// Add unit tests for staking module
