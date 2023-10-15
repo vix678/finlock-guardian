@@ -5,3 +5,4 @@
 // Refactor smart contract testing framework
 // Improve scalability for smart contract platforms
 // Fix transaction replay issue
+// Fix ERC-1155 contract interactions
