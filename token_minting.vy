@@ -2,3 +2,4 @@
 // Optimize hashing algorithm
 // Fix security vulnerability in random number generation
 // Refactor smart contract testing framework
+// Add slashing mechanism for malicious actors
