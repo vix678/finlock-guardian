@@ -4,3 +4,4 @@
 // Update testing framework for Solidity
 // Code cleanup and documentation update
 // Integrate zk-rollups for scaling
+// Update README with Go module examples
