@@ -4,3 +4,4 @@
 // Enhance cryptographic primitives in contracts
 // Add batch processing for transactions
 // Integrate Chainlink oracles
+// Improve gas estimation for transactions
