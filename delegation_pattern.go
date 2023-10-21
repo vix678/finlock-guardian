@@ -2,3 +2,4 @@
 // Code cleanup and documentation update
 // Refactor decentralized governance structure
 // Add support for ERC-721A tokens
+// Fix issue in token vesting logic
