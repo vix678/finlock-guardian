@@ -2,3 +2,4 @@
 // Fix compatibility issues with MetaMask
 // Enhance token swap functionality
 // Enhance API rate limiting for smart contracts
+// Improve staking pool reward management
