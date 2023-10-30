@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Optimize gas usage in smart contracts
 // Optimize decentralized oracle performance
+// Add unit tests for staking module
