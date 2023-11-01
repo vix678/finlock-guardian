@@ -5,3 +5,4 @@
 // Fix vulnerabilities in staking contracts
 // Enhance governance contract flexibility
 // Update smart contract tests
+// Integrate chain-agnostic oracles
