@@ -3,3 +3,4 @@
 // Integrate decentralized prediction models
 // Improve gas fee estimation accuracy
 // Refactor incentive structure in DeFi protocol
+// Fix overflow bug in token calculation
