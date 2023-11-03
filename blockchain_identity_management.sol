@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve staking logic for better rewards
 // Optimize token minting flow
+// Implement price feed oracles for tokens
