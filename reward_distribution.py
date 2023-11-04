@@ -3,3 +3,4 @@
 // Enhance contract state verification
 // Add support for decentralized file storage
 // Optimize token minting flow
+// Refactor staking logic
