@@ -3,3 +3,4 @@
 // Add unit tests for staking module
 // Refactor wallet interaction logic
 // Implement decentralized arbitration in contracts
+// Enhance test coverage for Rust module
