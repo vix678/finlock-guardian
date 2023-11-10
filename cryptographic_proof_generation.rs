@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Integrate staking rewards automation
 // Integrate IPFS for storage
+// Fix interoperability issues with other blockchains
