@@ -2,3 +2,4 @@
 // Implement on-chain identity verification
 // Fix issues with token vesting contracts
 // Implement adaptive block size for Ethereum
+// Improve error handling in transaction flow
