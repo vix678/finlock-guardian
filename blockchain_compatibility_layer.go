@@ -4,3 +4,4 @@
 // Improve contract interaction via APIs
 // Optimize storage for off-chain data
 // Refactor wallet interaction logic
+// Add support for fractional token ownership
