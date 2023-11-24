@@ -6,3 +6,4 @@
 // Add new RPC endpoint
 // Integrate Chainlink oracles
 // Add governance proposal expiration feature
+// Refactor decentralized exchange (DEX) code
