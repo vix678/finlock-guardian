@@ -6,3 +6,4 @@
 // Improve ERC-721 token metadata functionality
 // Improve contract interaction via APIs
 // Enhance contract initialization process
+// Implement on-chain identity verification
