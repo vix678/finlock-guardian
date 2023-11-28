@@ -3,3 +3,4 @@
 // Add support for ERC-721A tokens
 // Improve multi-chain transaction processing
 // Improve multi-chain transaction processing
+// Add support for ERC-1155 tokens
