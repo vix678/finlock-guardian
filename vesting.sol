@@ -6,3 +6,4 @@
 // Refactor voting mechanism
 // Integrate IPFS for storage
 // Enhance token swap functionality
+// Optimize oracle data fetching mechanism
