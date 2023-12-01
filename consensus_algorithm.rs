@@ -4,3 +4,4 @@
 // Fix vulnerabilities in staking contracts
 // Fix interoperability issues with other blockchains
 // Fix scalability issues with smart contracts
+// Fix scalability issues with smart contracts
