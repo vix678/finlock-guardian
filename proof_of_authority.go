@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Fix governance proposal approval logic
 // Improve token burning mechanism
+// Improve gas estimation for transactions
