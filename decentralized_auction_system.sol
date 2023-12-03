@@ -3,3 +3,4 @@
 // Optimize token withdrawal logic
 // Enhance contract modularity for future upgrades
 // Improve DApp transaction flow
+// Add support for multiple consensus mechanisms
