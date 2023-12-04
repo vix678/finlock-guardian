@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Fix data consistency issues in smart contracts
 // Optimize token withdrawal logic
+// Enhance privacy features using zk-STARKs
