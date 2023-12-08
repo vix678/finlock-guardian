@@ -3,3 +3,4 @@
 // Improve transaction batching efficiency
 // Update testing framework for Solidity
 // Add native support for staking rewards
+// Refactor governance token logic
