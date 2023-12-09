@@ -4,3 +4,4 @@
 // Implement a new contract event system
 // Add support for multiple consensus mechanisms
 // Integrate zk-rollups for scaling
+// Refactor reward pooling algorithm
