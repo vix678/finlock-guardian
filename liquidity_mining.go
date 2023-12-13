@@ -5,3 +5,4 @@
 // Enhance token swap functionality
 // Fix memory optimization issues in contracts
 // Refactor multi-signature wallet code
+// Fix governance proposal approval logic
