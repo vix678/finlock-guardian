@@ -2,3 +2,4 @@
 // Update README with Go module examples
 // Optimize WASM compilation for Go contracts
 // Implement delegation pattern
+// Fix security vulnerability in random number generation
