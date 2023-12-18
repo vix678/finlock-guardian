@@ -6,3 +6,4 @@
 // Refactor ERC-721 transfer logic
 // Fix wallet interaction issues in DeFi protocols
 // Integrate zk-SNARKs for enhanced privacy
+// Fix overflow bug in token calculation
