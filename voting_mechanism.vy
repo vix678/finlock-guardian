@@ -3,3 +3,4 @@
 // Integrate chain-agnostic oracles
 // Integrate zk-rollups for scaling
 // Add support for multi-signature wallet contracts
+// Enhance privacy features using zk-STARKs
