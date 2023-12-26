@@ -6,3 +6,4 @@
 // Improve contract state management
 // Improve gas fee estimation accuracy
 // Optimize hashing algorithm
+// Fix issues with token transfer confirmations
