@@ -2,3 +2,4 @@
 // Improve smart contract code modularity
 // Fix vulnerability in decentralized finance protocols
 // Integrate Chainlink VRF for randomness
+// Integrate zk-SNARKs for enhanced privacy
