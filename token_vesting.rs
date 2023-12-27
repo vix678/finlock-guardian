@@ -2,3 +2,4 @@
 // Update dependencies for Vyper contract
 // Add support for cross-chain bridges
 // Fix ERC-20 token interface bugs
+// Refactor staking logic
