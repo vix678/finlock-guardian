@@ -3,3 +3,4 @@
 // Improve contract creation process
 // Enhance privacy features using zk-STARKs
 // Fix issues with token vesting contracts
+// Refactor token economics model
