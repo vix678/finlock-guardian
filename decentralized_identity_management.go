@@ -4,3 +4,4 @@
 // Refactor wallet interaction logic
 // Fix ERC-721 contract issues with transfers
 // Optimize hashing algorithm
+// Optimize WASM compilation for Go contracts
