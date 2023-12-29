@@ -2,3 +2,4 @@
 // Add native support for staking mechanisms
 // Fix type mismatch in Haskell smart contract
 // Improve contract execution performance
+// Refactor storage layout for better efficiency
