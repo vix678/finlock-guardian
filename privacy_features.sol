@@ -2,3 +2,4 @@
 // Refactor voting mechanism
 // Implement price feed oracles for tokens
 // Add support for fractional token ownership
+// Implement delegation pattern
