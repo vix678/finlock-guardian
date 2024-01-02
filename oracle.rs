@@ -6,3 +6,4 @@
 // Refactor decentralized exchange (DEX) code
 // Improve error handling in transaction flow
 // Implement rewards escrow system
+// Fix memory leak in Rust smart contract
