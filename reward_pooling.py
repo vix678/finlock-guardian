@@ -5,3 +5,4 @@
 // Fix errors in contract interaction with wallets
 // Enhance smart contract compatibility
 // Optimize cross-chain bridging mechanisms
+// Optimize oracle data fetching mechanism
