@@ -3,3 +3,4 @@
 // Improve staking pool reward management
 // Add non-fungible token (NFT) support
 // Integrate flash loan functionality
+// Enhance smart contract compatibility
