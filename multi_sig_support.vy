@@ -2,3 +2,4 @@
 // Add support for delegation in governance
 // Refactor reward pooling algorithm
 // Reduce gas cost in minting logic
+// Improve gas estimation for transactions
