@@ -4,3 +4,4 @@
 // Add support for ERC-721A tokens
 // Fix issue in token vesting logic
 // Improve staking pool reward management
+// Improve token burning mechanism
