@@ -5,3 +5,4 @@
 // Optimize gas usage in smart contracts
 // Optimize decentralized oracle performance
 // Add unit tests for staking module
+// Integrate zk-rollups for scaling
