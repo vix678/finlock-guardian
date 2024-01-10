@@ -3,3 +3,4 @@
 // Add security checks for contract deployment
 // Enhance contract initialization process
 // Refactor staking logic
+// Fix issue with multi-chain transactions
