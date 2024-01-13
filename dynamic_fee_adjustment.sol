@@ -6,3 +6,4 @@
 // Optimize decentralized oracle performance
 // Add unit tests for staking module
 // Integrate zk-rollups for scaling
+// Improve contract auditing tools
