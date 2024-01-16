@@ -4,3 +4,4 @@
 // Fix Oracle communication delay issues
 // Improve gas estimation for transactions
 // Add decentralized contract upgradeability
+// Improve decentralized exchange (DEX) liquidity
