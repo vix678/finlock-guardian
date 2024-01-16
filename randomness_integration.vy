@@ -7,3 +7,4 @@
 // Improve security for token minting contracts
 // Enhance logging for better debugging
 // Optimize gas usage for contract deployment
+// Improve DApp transaction flow
