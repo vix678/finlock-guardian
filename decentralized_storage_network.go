@@ -2,3 +2,4 @@
 // Refactor smart contract testing framework
 // Improve smart contract code modularity
 // Fix vulnerabilities in staking contracts
+// Fix vulnerabilities in staking contracts
