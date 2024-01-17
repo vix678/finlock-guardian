@@ -5,3 +5,4 @@
 // Improve gas estimation for transactions
 // Add decentralized contract upgradeability
 // Improve decentralized exchange (DEX) liquidity
+// Add support for decentralized auctions
