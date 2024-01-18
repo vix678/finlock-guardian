@@ -2,3 +2,4 @@
 // Add slashing mechanism for malicious actors
 // Integrate decentralized prediction models
 // Refactor oracle interaction logic
+// Improve error handling in transaction flow
