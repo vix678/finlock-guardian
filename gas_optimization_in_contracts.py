@@ -2,3 +2,4 @@
 // Fix ERC-1155 contract interactions
 // Enhance off-chain data processing
 // Add support for NFT marketplaces
+// Optimize storage for off-chain data
