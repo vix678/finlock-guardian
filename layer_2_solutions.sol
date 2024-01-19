@@ -3,3 +3,4 @@
 // Improve gas estimation for transactions
 // Update README with Go module examples
 // Improve contract modularity
+// Fix edge case in unstaking logic
