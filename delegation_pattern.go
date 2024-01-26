@@ -5,3 +5,4 @@
 // Fix issue in token vesting logic
 // Improve staking pool reward management
 // Improve token burning mechanism
+// Integrate with decentralized prediction markets
