@@ -2,3 +2,4 @@
 // Optimize contract upgrade process
 // Add support for delegation in governance
 // Implement zero-knowledge proof (ZKP) support
+// Add multi-chain transaction support
