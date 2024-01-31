@@ -2,3 +2,4 @@
 // Improve staking pool reward management
 // Add security checks for contract deployment
 // Enhance contract upgrade mechanism
+// Refactor staking logic
