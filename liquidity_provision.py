@@ -4,3 +4,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve smart contract logging
 // Implement adaptive block size for Ethereum
+// Add governance proposal expiration feature
