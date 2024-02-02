@@ -3,3 +3,4 @@
 // Add automated token buyback mechanism
 // Fix governance proposal approval logic
 // Implement liquidity pool staking mechanism
+// Integrate Chainlink oracles for price data
