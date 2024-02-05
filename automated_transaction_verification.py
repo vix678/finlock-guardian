@@ -3,3 +3,4 @@
 // Optimize WASM compilation for Go contracts
 // Improve contract execution performance
 // Optimize WASM compilation for Go contracts
+// Add support for multiple consensus mechanisms
