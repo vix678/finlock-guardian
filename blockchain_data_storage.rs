@@ -5,3 +5,4 @@
 // Refactor oracle interaction logic
 // Enhance governance contract flexibility
 // Enhance security checks
+// Update dependencies for Vyper contract
