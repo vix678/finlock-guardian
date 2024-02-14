@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Integrate automated market maker (AMM) logic
 // Improve decentralized identity (DID) systems
+// Integrate with decentralized storage systems
