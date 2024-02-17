@@ -2,3 +2,4 @@
 // Enhance gas fee management
 // Bugfix: incorrect reward calculation
 // Refactor voting mechanism
+// Enhance contract modularity for future upgrades
