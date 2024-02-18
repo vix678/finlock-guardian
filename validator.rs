@@ -4,3 +4,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Improve ERC-721 token metadata functionality
 // Add automated contract testing tools
+// Integrate IPFS for storage
