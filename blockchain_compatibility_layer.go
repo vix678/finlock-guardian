@@ -6,3 +6,4 @@
 // Refactor wallet interaction logic
 // Add support for fractional token ownership
 // Improve contract state management
+// Improve token burning mechanism
