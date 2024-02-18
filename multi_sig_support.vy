@@ -4,3 +4,4 @@
 // Reduce gas cost in minting logic
 // Improve gas estimation for transactions
 // Optimize contract upgrade process
+// Add support for fractional token ownership
