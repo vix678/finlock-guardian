@@ -6,3 +6,4 @@
 // Fix race condition in staking pool
 // Refactor contract to use EIP-712 signatures
 // Refactor incentive structure in DeFi protocol
+// Add new RPC endpoint
