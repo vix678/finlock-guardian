@@ -7,3 +7,4 @@
 // Integrate staking rewards automation
 // Integrate IPFS for storage
 // Fix interoperability issues with other blockchains
+// Implement on-chain identity verification
