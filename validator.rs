@@ -5,3 +5,4 @@
 // Improve ERC-721 token metadata functionality
 // Add automated contract testing tools
 // Integrate IPFS for storage
+// Refactor storage layout for better efficiency
