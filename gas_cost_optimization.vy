@@ -5,3 +5,4 @@
 // Add native support for staking rewards
 // Enhance smart contract upgradeability
 // Refactor decentralized storage system
+// Enhance governance contract flexibility
