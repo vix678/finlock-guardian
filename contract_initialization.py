@@ -5,3 +5,4 @@
 // Fix ERC-721 contract issues with transfers
 // Refactor contract to use EIP-712 signatures
 // Integrate flash loan functionality
+// Refactor incentive structure in DeFi protocol
