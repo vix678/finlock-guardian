@@ -5,3 +5,4 @@
 // Add support for delegation in governance
 // Implement performance optimizations for DeFi
 // Implement zero-knowledge proof (ZKP) support
+// Enhance governance contract flexibility
