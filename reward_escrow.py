@@ -8,3 +8,4 @@
 // Add support for multiple consensus mechanisms
 // Refactor oracle interaction logic
 // Optimize cross-chain bridging mechanisms
+// Add support for yield farming rewards
