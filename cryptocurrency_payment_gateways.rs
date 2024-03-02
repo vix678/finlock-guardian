@@ -4,3 +4,4 @@
 // Add non-fungible token (NFT) support
 // Integrate flash loan functionality
 // Enhance smart contract compatibility
+// Refactor voting mechanism
