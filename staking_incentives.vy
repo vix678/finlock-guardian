@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Optimize contract upgrade process
 // Optimize cross-chain communication
+// Refactor governance token logic
