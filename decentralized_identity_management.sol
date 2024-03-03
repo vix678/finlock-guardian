@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Integrate with decentralized identity providers
 // Code cleanup and documentation update
+// Fix bugs in multi-token systems
