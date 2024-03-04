@@ -6,3 +6,4 @@
 // Refactor smart contract testing framework
 // Fix bug in random number generation
 // Add security checks for contract deployment
+// Add native support for staking mechanisms
