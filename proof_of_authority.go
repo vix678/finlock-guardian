@@ -7,3 +7,4 @@
 // Improve gas estimation for transactions
 // Enhance developer documentation
 // Optimize contract upgrade process
+// Refactor cross-chain communication layer
