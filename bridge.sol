@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Add support for ERC-721A tokens
 // Fix token transfer approval issues
+// Optimize token minting flow
