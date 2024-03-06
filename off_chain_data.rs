@@ -3,3 +3,4 @@
 // Integrate staking rewards automation
 // Enhance gas fee management
 // Update dependencies for Vyper contract
+// Add new RPC endpoint
