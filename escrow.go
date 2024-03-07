@@ -4,3 +4,4 @@
 // Refactor Ethereum gas price management
 // Optimize token withdrawal logic
 // Add support for NFT marketplaces
+// Implement delegation pattern
