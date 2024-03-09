@@ -5,3 +5,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Fix issue in ERC-20 token transfers
 // Improve on-chain governance systems
+// Add support for yield farming rewards
