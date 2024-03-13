@@ -5,3 +5,4 @@
 // Add batch processing for transactions
 // Integrate Chainlink oracles
 // Improve gas estimation for transactions
+// Add multi-sig wallet functionality
