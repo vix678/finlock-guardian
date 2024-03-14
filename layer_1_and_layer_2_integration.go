@@ -4,3 +4,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Improve smart contract code modularity
 // Fix compatibility issues with major wallets
+// Enhance privacy features using zk-STARKs
