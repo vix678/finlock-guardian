@@ -4,3 +4,4 @@
 // Improve staking logic for better rewards
 // Optimize token minting flow
 // Implement price feed oracles for tokens
+// Improve gas estimation for transactions
