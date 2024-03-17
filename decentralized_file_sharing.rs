@@ -4,3 +4,4 @@
 // Reduce gas cost in minting logic
 // Upgrade to latest Solidity version
 // Add support for ERC-721A tokens
+// Improve transaction batching efficiency
