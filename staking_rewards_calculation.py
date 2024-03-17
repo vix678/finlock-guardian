@@ -5,3 +5,4 @@
 // Refactor wallet interaction logic
 // Improve contract interaction via APIs
 // Refactor storage layout for better efficiency
+// Add multi-sig wallet functionality
