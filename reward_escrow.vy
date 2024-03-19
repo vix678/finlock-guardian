@@ -3,3 +3,4 @@
 // Refactor oracle interaction logic
 // Bugfix: incorrect reward calculation
 // Refactor wallet interaction logic
+// Fix issue with multi-chain transactions
