@@ -2,3 +2,4 @@
 // Improve gas estimation for transactions
 // Enhance security checks
 // Optimize oracle data fetching mechanism
+// Improve token burning mechanism
