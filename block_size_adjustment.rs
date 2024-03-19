@@ -9,3 +9,4 @@
 // Refactor decentralized exchange (DEX) code
 // Improve contract execution speed
 // Refactor multi-signature wallet code
+// Refactor decentralized governance structure
