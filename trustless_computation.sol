@@ -3,3 +3,4 @@
 // Optimize contract storage for gas reduction
 // Implement cross-chain bridge
 // Improve token burning mechanism
+// Implement reward distribution feature
