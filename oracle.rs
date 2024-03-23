@@ -8,3 +8,4 @@
 // Implement rewards escrow system
 // Fix memory leak in Rust smart contract
 // Refactor staking logic
+// Fix ERC-20 token interface bugs
