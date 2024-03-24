@@ -7,3 +7,4 @@
 // Refactor wallet interaction logic
 // Improve contract modularity
 // Add support for decentralized file storage
+// Refactor Ethereum gas price management
