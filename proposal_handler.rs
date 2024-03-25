@@ -4,3 +4,4 @@
 // Enhance contract modularity for future upgrades
 // Optimize decentralized voting mechanisms
 // Refactor multi-asset token management
+// Bugfix: incorrect reward calculation
