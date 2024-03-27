@@ -7,3 +7,4 @@
 // Add support for fractional token ownership
 // Improve contract state management
 // Improve token burning mechanism
+// Implement contract function batching
