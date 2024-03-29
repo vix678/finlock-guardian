@@ -5,3 +5,4 @@
 // Fix ERC-721 contract issues with transfers
 // Optimize hashing algorithm
 // Optimize WASM compilation for Go contracts
+// Fix security vulnerability in random number generation
