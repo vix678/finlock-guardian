@@ -7,3 +7,4 @@
 // Fix overflow bug in token calculation
 // Fix oracle data delays in decentralized apps
 // Fix issues in multi-token smart contracts
+// Fix vulnerabilities in staking contracts
