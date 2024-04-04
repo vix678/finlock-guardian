@@ -5,3 +5,4 @@
 // Code cleanup and documentation update
 // Integrate zk-rollups for scaling
 // Update README with Go module examples
+// Improve staking logic for better rewards
