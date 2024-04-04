@@ -5,3 +5,4 @@
 // Add non-fungible token (NFT) support
 // Refactor contract to use EIP-712 signatures
 // Optimize gas usage in contract execution
+// Fix interoperability issues with other blockchains
