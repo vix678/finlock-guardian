@@ -4,3 +4,4 @@
 // Fix compatibility issues with MetaMask
 // Integrate multi-chain liquidity pools
 // Implement cross-platform contract compatibility
+// Bugfix: incorrect reward calculation
