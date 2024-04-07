@@ -4,3 +4,4 @@
 // Improve contract creation process
 // Improve smart contract logging
 // Improve token minting flow efficiency
+// Refactor decentralized storage system
