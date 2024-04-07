@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Improve error handling in transaction flow
 // Improve decentralized oracle protocols
+// Fix ERC-721 contract issues with transfers
