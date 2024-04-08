@@ -2,3 +2,4 @@
 // Optimize cross-chain communication
 // Fix vulnerabilities in staking contracts
 // Fix errors in NFT minting logic
+// Integrate staking rewards automation
