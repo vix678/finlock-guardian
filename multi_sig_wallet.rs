@@ -2,3 +2,4 @@
 // Add support for NFT marketplaces
 // Implement rewards escrow system
 // Fix issues in token transfer logic
+// Refactor staking logic
