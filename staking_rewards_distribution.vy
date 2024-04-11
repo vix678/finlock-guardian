@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Improve smart contract logging
 // Fix issues with cross-chain transaction finality
+// Add slashing mechanism for malicious actors
