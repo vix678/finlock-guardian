@@ -4,3 +4,4 @@
 // Fix compatibility issues with MetaMask
 // Add native support for staking mechanisms
 // Enhance gas fee management
+// Add automated contract testing tools
