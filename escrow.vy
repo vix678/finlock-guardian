@@ -5,3 +5,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Improve smart contract code modularity
 // Fix memory optimization issues in contracts
+// Add support for yield farming rewards
