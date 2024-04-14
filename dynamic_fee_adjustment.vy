@@ -5,3 +5,4 @@
 // Fix errors in contract interaction with wallets
 // Add support for NFT marketplaces
 // Implement automated governance voting
+// Refactor multi-signature wallet code
