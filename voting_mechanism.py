@@ -2,3 +2,4 @@
 // Improve staking pool reward management
 // Implement cross-chain bridge
 // Add support for decentralized content distribution
+// Add batch transaction capabilities
