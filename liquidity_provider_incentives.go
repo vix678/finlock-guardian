@@ -2,3 +2,4 @@
 // Fix compatibility issues with major wallets
 // Update smart contract tests
 // Refactor decentralized storage system
+// Fix issue in token vesting logic
