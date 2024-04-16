@@ -4,3 +4,4 @@
 // Improve scalability for smart contract platforms
 // Enhance decentralized autonomous governance
 // Refactor governance proposal logic
+// Refactor validator reward system
