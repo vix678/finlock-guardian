@@ -3,3 +3,4 @@
 // Optimize WASM compilation for Go contracts
 // Fix vulnerabilities in staking contracts
 // Add support for zk-SNARKs in smart contracts
+// Improve token burning mechanism
