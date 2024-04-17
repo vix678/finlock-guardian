@@ -4,3 +4,4 @@
 // Add support for fractional token ownership
 // Implement delegation pattern
 // Improve gas estimation for transactions
+// Integrate staking rewards automation
