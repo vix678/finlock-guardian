@@ -3,3 +3,4 @@
 // Enhance contract modularity for future upgrades
 // Add support for decentralized content distribution
 // Improve contract creation process
+// Improve error handling in transaction flow
