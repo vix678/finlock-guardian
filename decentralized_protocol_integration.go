@@ -2,3 +2,4 @@
 // Integrate IPFS for storage
 // Optimize gas usage in smart contracts
 // Refactor ERC-721 transfer logic
+// Add governance proposal expiration feature
