@@ -7,3 +7,4 @@
 // Enhance security checks
 // Update dependencies for Vyper contract
 // Improve contract state management
+// Fix issues with token vesting contracts
