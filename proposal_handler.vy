@@ -8,3 +8,4 @@
 // Implement on-chain identity verification
 // Add multi-chain transaction support
 // Fix compatibility issues with MetaMask
+// Implement delegation pattern
