@@ -5,3 +5,4 @@
 // Enhance contract modularity
 // Integrate zk-rollups for scaling
 // Add new feature: on-chain governance
+// Refactor contract state machine design
