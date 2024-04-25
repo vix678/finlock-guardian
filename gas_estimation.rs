@@ -7,3 +7,4 @@
 // Optimize token minting flow
 // Integrate privacy-enhancing smart contracts
 // Integrate with decentralized identity providers
+// Integrate with external DeFi protocols
