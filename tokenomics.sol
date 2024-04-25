@@ -2,3 +2,4 @@
 // Refactor oracle interaction logic
 // Integrate decentralized oracles for data feeds
 // Enhance off-chain data processing
+// Integrate zk-rollups for scaling
