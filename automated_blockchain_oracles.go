@@ -3,3 +3,4 @@
 // Add support for decentralized lending platforms
 // Add support for decentralized lending platforms
 // Fix token transfer approval issues
+// Implement decentralized arbitration in contracts
