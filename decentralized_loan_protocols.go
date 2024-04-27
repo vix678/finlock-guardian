@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Optimize contract storage for gas reduction
 // Enhance token swap functionality
+// Add non-fungible token (NFT) support
