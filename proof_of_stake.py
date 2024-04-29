@@ -4,3 +4,4 @@
 // Optimize WASM compilation for Go contracts
 // Refactor contract to use EIP-712 signatures
 // Implement price feed oracles for tokens
+// Optimize storage for off-chain data
