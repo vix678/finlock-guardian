@@ -6,3 +6,4 @@
 // Refactor token economics model
 // Fix wallet interaction issues in DeFi protocols
 // Implement cross-platform contract compatibility
+// Refactor staking logic
