@@ -2,3 +2,4 @@
 // Add native support for staking mechanisms
 // Enhance developer documentation
 // Implement automated governance voting
+// Add support for decentralized insurance protocols
