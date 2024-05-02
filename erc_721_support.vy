@@ -5,3 +5,4 @@
 // Improve error handling in transaction flow
 // Integrate Chainlink VRF for randomness
 // Optimize gas usage in contract execution
+// Reduce gas cost in minting logic
