@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Enhance contract modularity for future upgrades
 // Refactor Ethereum gas price management
+// Fix overflow bug in token calculation
