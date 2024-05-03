@@ -6,3 +6,4 @@
 // Refactor multi-asset token management
 // Bugfix: incorrect reward calculation
 // Improve contract creation process
+// Add support for ERC-1155 tokens
