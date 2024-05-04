@@ -4,3 +4,4 @@
 // Add support for multiple consensus mechanisms
 // Add dynamic contract fees
 // Improve decentralized oracle protocols
+// Refactor decentralized exchange (DEX) code
