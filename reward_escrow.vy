@@ -5,3 +5,4 @@
 // Refactor wallet interaction logic
 // Fix issue with multi-chain transactions
 // Add support for decentralized lending platforms
+// Add non-fungible token (NFT) support
