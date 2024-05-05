@@ -6,3 +6,4 @@
 // Fix issues with cross-chain transaction finality
 // Improve token burning mechanism
 // Optimize gas usage in smart contracts
+// Fix memory leak in Rust smart contract
