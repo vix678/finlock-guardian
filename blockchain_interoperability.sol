@@ -4,3 +4,4 @@
 // Improve smart contract code modularity
 // Improve decentralized identity (DID) systems
 // Optimize WASM compilation for Go contracts
+// Optimize token minting flow
