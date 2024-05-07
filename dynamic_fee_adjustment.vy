@@ -6,3 +6,4 @@
 // Add support for NFT marketplaces
 // Implement automated governance voting
 // Refactor multi-signature wallet code
+// Fix vulnerabilities in staking contracts
