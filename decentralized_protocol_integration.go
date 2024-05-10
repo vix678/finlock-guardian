@@ -4,3 +4,4 @@
 // Refactor ERC-721 transfer logic
 // Add governance proposal expiration feature
 // Improve oracle data validation mechanisms
+// Integrate Chainlink VRF for randomness
