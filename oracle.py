@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Fix errors in contract interaction with wallets
 // Implement delegation pattern
+// Integrate multi-chain liquidity pools
