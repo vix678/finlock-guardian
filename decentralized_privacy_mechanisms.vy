@@ -3,3 +3,4 @@
 // Add support for delegation in governance
 // Enhance smart contract compatibility
 // Fix Oracle communication delay issues
+// Add multi-sig wallet functionality
