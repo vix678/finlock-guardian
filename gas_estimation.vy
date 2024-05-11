@@ -2,3 +2,4 @@
 // Fix contract reentrancy issues
 // Enhance API rate limiting for smart contracts
 // Fix issue in token vesting logic
+// Fix issues with cross-chain transaction finality
