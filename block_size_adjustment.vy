@@ -7,3 +7,4 @@
 // Add multi-chain governance support
 // Integrate decentralized prediction models
 // Add batch transaction capabilities
+// Fix bugs in NFT metadata handling
