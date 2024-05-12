@@ -3,3 +3,4 @@
 // Improve staking logic for better rewards
 // Fix errors in contract interaction with wallets
 // Improve contract state management
+// Integrate staking rewards automation
