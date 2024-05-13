@@ -5,3 +5,4 @@
 // Optimize proof-of-stake validation
 // Refactor decentralized exchange (DEX) code
 // Add multi-sig wallet functionality
+// Add support for decentralized auctions
