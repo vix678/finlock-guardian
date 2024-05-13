@@ -3,3 +3,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Refactor reward pooling algorithm
 // Enhance off-chain data processing
+// Add support for multiple consensus mechanisms
