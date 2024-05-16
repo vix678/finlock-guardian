@@ -6,3 +6,4 @@
 // Implement dynamic fee adjustment
 // Optimize oracle data fetching mechanism
 // Implement on-chain identity verification
+// Implement zero-knowledge proof (ZKP) support
