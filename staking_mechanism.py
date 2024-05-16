@@ -6,3 +6,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Integrate multi-chain liquidity pools
 // Improve token burning mechanism
+// Improve decentralized exchange (DEX) liquidity
