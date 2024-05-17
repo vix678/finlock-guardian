@@ -5,3 +5,4 @@
 // Add native support for staking rewards
 // Refactor governance token logic
 // Integrate decentralized oracles for data feeds
+// Add support for decentralized auctions
