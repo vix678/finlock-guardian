@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Fix issues with cross-chain transaction finality
 // Improve staking pool reward management
+// Add support for decentralized file storage
