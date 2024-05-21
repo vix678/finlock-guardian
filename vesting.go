@@ -7,3 +7,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Fix interoperability issues with other blockchains
 // Improve contract execution performance
+// Add support for zk-SNARKs in smart contracts
