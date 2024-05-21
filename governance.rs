@@ -6,3 +6,4 @@
 // Enhance gas fee management
 // Fix vulnerabilities in staking contracts
 // Fix overflow bug in token calculation
+// Integrate staking rewards automation
