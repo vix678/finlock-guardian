@@ -6,3 +6,4 @@
 // Fix overflow bug in token calculation
 // Fix vulnerabilities in staking contracts
 // Add new RPC endpoint
+// Optimize contract storage for gas reduction
