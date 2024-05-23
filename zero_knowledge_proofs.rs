@@ -6,3 +6,4 @@
 // Add support for ERC-1155 tokens
 // Fix issues in token transfer logic
 // Add support for decentralized insurance protocols
+// Improve decentralized exchange (DEX) liquidity
