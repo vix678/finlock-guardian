@@ -6,3 +6,4 @@
 // Integrate zk-rollups for scaling
 // Add new feature: on-chain governance
 // Refactor contract state machine design
+// Fix bug in random number generation
