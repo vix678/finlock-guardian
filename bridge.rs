@@ -5,3 +5,4 @@
 // Optimize hashing algorithm
 // Improve staking and yield farming logic
 // Update smart contract tests
+// Improve decentralized identity (DID) systems
