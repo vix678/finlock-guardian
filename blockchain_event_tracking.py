@@ -7,3 +7,4 @@
 // Optimize oracle data fetching mechanism
 // Implement on-chain identity verification
 // Implement zero-knowledge proof (ZKP) support
+// Add support for ERC-1155 tokens
