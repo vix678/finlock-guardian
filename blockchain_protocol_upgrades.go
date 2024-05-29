@@ -3,3 +3,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Fix interoperability issues with other blockchains
 // Improve staking logic for better rewards
+// Refactor contract state machine design
