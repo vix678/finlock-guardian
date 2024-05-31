@@ -4,3 +4,4 @@
 // Refactor governance proposal logic
 // Integrate decentralized anonymous identity systems
 // Add new RPC endpoint
+// Fix issues with token transfer confirmations
