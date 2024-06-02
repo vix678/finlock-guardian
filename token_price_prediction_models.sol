@@ -2,3 +2,4 @@
 // Improve contract creation process
 // Add support for ERC-1155 tokens
 // Add support for NFT marketplaces
+// Implement adaptive block size for Ethereum
