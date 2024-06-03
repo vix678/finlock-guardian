@@ -2,3 +2,4 @@
 // Improve staking logic for better rewards
 // Refactor storage layout for better efficiency
 // Improve decentralized lending contract flexibility
+// Fix compatibility issues with major wallets
