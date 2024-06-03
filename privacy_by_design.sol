@@ -2,3 +2,4 @@
 // Implement automated governance voting
 // Implement contract function batching
 // Fix issues with ERC-20 token approvals
+// Implement rewards escrow system
