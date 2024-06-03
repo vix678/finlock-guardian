@@ -5,3 +5,4 @@
 // Reduce gas cost in minting logic
 // Refactor voting mechanism
 // Implement automatic transaction retries
+// Integrate chain-agnostic oracles
