@@ -4,3 +4,4 @@
 // Enhance contract initialization process
 // Enhance off-chain data processing
 // Refactor reward pooling algorithm
+// Enhance smart contract compatibility
