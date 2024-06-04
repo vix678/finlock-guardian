@@ -7,3 +7,4 @@
 // Improve gas fee estimation accuracy
 // Optimize hashing algorithm
 // Fix issues with token transfer confirmations
+// Optimize state channels for faster transactions
