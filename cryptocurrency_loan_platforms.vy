@@ -4,3 +4,4 @@
 // Fix issues with gas optimization in smart contracts
 // Update README with Go module examples
 // Optimize cross-chain bridging mechanisms
+// Fix bugs in NFT metadata handling
