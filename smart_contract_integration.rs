@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Add Layer-2 Ethereum scaling solutions
 // Update smart contract tests
+// Fix ERC-1155 contract interactions
