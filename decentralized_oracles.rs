@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Improve gas fee estimation accuracy
 // Improve contract execution performance
+// Fix interoperability issues with other blockchains
