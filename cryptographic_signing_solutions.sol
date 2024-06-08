@@ -2,3 +2,4 @@
 // Fix governance proposal approval logic
 // Implement decentralized arbitration in contracts
 // Integrate privacy-enhancing smart contracts
+// Integrate Chainlink VRF for randomness
