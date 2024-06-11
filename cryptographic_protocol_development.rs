@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Improve security in decentralized applications
 // Improve cross-chain asset management
+// Update README with Go module examples
