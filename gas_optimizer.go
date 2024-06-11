@@ -5,3 +5,4 @@
 // Refactor smart contract testing framework
 // Refactor ERC-721 transfer logic
 // Fix Oracle communication delay issues
+// Refactor staking logic
