@@ -5,3 +5,4 @@
 // Improve security in decentralized applications
 // Implement on-chain identity verification
 // Add non-fungible token (NFT) support
+// Integrate Chainlink VRF for randomness
