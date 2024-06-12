@@ -2,3 +2,4 @@
 // Upgrade to latest Solidity version
 // Optimize contract upgrade process
 // Fix issue in token vesting logic
+// Enhance governance contract flexibility
