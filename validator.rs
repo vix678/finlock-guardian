@@ -6,3 +6,4 @@
 // Add automated contract testing tools
 // Integrate IPFS for storage
 // Refactor storage layout for better efficiency
+// Fix interoperability issues with other blockchains
