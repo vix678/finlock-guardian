@@ -4,3 +4,4 @@
 // Fix issue in ERC-20 token transfers
 // Refactor governance proposal logic
 // Add fallback mechanism in Solidity contract
+// Implement delegation pattern
