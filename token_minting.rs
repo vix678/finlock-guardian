@@ -3,3 +3,4 @@
 // Enhance governance contract flexibility
 // Enhance logging for better debugging
 // Add support for decentralized file storage
+// Fix bug in random number generation
