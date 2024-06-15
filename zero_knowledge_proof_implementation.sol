@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Enhance off-chain data processing
 // Add support for multiple consensus mechanisms
+// Fix type mismatch in Haskell smart contract
