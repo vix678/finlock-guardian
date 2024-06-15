@@ -3,3 +3,4 @@
 // Implement cross-platform contract compatibility
 // Add automated contract testing tools
 // Improve token minting flow efficiency
+// Add support for delegation in governance
