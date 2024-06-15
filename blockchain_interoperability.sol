@@ -5,3 +5,4 @@
 // Improve decentralized identity (DID) systems
 // Optimize WASM compilation for Go contracts
 // Optimize token minting flow
+// Bugfix: incorrect reward calculation
