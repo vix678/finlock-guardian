@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Reduce gas cost in minting logic
 // Fix issues with contract state management
+// Refactor multi-signature wallet code
