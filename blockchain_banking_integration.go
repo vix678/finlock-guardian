@@ -6,3 +6,4 @@
 // Enhance contract initialization process
 // Improve contract creation process
 // Optimize decentralized application performance
+// Refactor staking logic
