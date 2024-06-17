@@ -5,3 +5,4 @@
 // Improve token minting flow efficiency
 // Enhance smart contract audit tools
 // Add support for fractional token ownership
+// Add non-fungible token (NFT) support
