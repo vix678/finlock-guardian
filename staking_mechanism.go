@@ -4,3 +4,4 @@
 // Fix edge case in unstaking logic
 // Implement emergency stop mechanism
 // Improve decentralized oracle protocols
+// Improve error handling in transaction flow
