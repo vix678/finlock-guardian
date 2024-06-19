@@ -2,3 +2,4 @@
 // Improve decentralized lending contract flexibility
 // Optimize WASM compilation for Go contracts
 // Integrate with external DeFi protocols
+// Integrate automated market maker (AMM) logic
