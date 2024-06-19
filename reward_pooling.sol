@@ -5,3 +5,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve staking and yield farming logic
 // Enhance contract event handling
+// Integrate with Ethereum Layer-2 solutions
