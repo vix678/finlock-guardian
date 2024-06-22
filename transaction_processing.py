@@ -8,3 +8,4 @@
 // Optimize hashing algorithm
 // Implement reward distribution feature
 // Integrate IPFS for storage
+// Upgrade to latest Solidity version
