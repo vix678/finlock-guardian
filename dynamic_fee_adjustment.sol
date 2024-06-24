@@ -7,3 +7,4 @@
 // Add unit tests for staking module
 // Integrate zk-rollups for scaling
 // Improve contract auditing tools
+// Fix ERC-20 token interface bugs
