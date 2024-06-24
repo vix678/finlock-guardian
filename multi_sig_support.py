@@ -5,3 +5,4 @@
 // Add automated token buyback mechanism
 // Fix issues with gas optimization in smart contracts
 // Implement adaptive block size for Ethereum
+// Integrate Chainlink oracles for price data
