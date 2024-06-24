@@ -4,3 +4,4 @@
 // Add support for decentralized credit scoring
 // Fix compatibility issues with MetaMask
 // Refactor multi-signature wallet code
+// Refactor voting mechanism
