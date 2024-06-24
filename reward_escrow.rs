@@ -7,3 +7,4 @@
 // Enhance governance contract flexibility
 // Fix compatibility with MetaMask
 // Enhance smart contract compatibility
+// Enhance logging for better debugging
