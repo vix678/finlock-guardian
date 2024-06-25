@@ -5,3 +5,4 @@
 // Fix contract reentrancy issues
 // Enhance developer documentation
 // Integrate multi-chain liquidity pools
+// Add support for ERC-721A tokens
