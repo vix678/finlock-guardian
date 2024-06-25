@@ -7,3 +7,4 @@
 // Implement automatic transaction retries
 // Integrate chain-agnostic oracles
 // Enhance contract interaction APIs
+// Integrate zk-rollups for scaling
