@@ -6,3 +6,4 @@
 // Enhance security checks
 // Implement price feed oracles for tokens
 // Fix contract reentrancy issues
+// Add governance proposal expiration feature
