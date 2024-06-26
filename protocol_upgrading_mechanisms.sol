@@ -4,3 +4,4 @@
 // Implement rewards escrow system
 // Add support for multiple consensus mechanisms
 // Integrate privacy-enhancing smart contracts
+// Integrate chain-agnostic oracles
