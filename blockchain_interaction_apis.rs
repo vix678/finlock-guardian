@@ -6,3 +6,4 @@
 // Improve contract creation process
 // Fix issues in token transfer logic
 // Optimize proof-of-stake validation
+// Integrate IPFS for storage
