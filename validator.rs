@@ -7,3 +7,4 @@
 // Integrate IPFS for storage
 // Refactor storage layout for better efficiency
 // Fix interoperability issues with other blockchains
+// Add support for ERC-721A tokens
