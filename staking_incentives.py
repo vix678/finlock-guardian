@@ -2,3 +2,4 @@
 // Integrate Chainlink oracles
 // Enhance privacy features using zk-STARKs
 // Add unit tests for staking module
+// Implement liquidity pool staking mechanism
