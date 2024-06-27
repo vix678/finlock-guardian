@@ -6,3 +6,4 @@
 // Improve staking and yield farming logic
 // Enhance contract event handling
 // Integrate with Ethereum Layer-2 solutions
+// Improve error handling in transaction flow
