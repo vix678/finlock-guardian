@@ -8,3 +8,4 @@
 // Fix ERC-1155 contract interactions
 // Implement on-chain identity verification
 // Implement cross-chain bridge
+// Add batch processing for transactions
