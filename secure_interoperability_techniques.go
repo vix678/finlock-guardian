@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Add new feature: on-chain governance
 // Enhance contract state verification
+// Add support for zk-SNARKs in smart contracts
