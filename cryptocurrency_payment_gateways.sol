@@ -6,3 +6,4 @@
 // Add native support for staking mechanisms
 // Fix issue in ERC-20 token transfers
 // Fix bugs in multi-token systems
+// Integrate decentralized anonymous identity systems
