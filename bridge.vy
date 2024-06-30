@@ -7,3 +7,4 @@
 // Enhance privacy features using zk-STARKs
 // Implement rewards escrow system
 // Implement dynamic fee adjustment
+// Implement price feed oracles for tokens
