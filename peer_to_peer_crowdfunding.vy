@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Add support for decentralized file storage
 // Add non-fungible token (NFT) support
+// Add decentralized contract upgradeability
