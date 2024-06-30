@@ -3,3 +3,4 @@
 // Fix errors in contract interaction with wallets
 // Improve gas estimation for transactions
 // Implement delegation pattern
+// Enhance smart contract compatibility
