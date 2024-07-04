@@ -6,3 +6,4 @@
 // Enhance privacy features using zk-STARKs
 // Integrate with multi-token standards
 // Refactor multi-asset token management
+// Refactor governance proposal logic
