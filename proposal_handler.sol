@@ -7,3 +7,4 @@
 // Enhance developer documentation
 // Improve security in decentralized applications
 // Enhance token swap functionality
+// Refactor reward pooling algorithm
