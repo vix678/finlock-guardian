@@ -3,3 +3,4 @@
 // Integrate with decentralized identity providers
 // Add automated token buyback mechanism
 // Enhance privacy features using zk-STARKs
+// Add support for decentralized file storage
