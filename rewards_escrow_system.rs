@@ -7,3 +7,4 @@
 // Add automated token buyback mechanism
 // Improve gas fee estimation accuracy
 // Enhance contract modularity for future upgrades
+// Add support for ERC-721A tokens
