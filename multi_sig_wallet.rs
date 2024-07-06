@@ -3,3 +3,4 @@
 // Implement rewards escrow system
 // Fix issues in token transfer logic
 // Refactor staking logic
+// Implement liquidity pool staking mechanism
