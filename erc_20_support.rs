@@ -3,3 +3,4 @@
 // Add new feature: on-chain governance
 // Optimize gas cost in function execution
 // Add multi-sig wallet functionality
+// Improve error handling in transaction flow
