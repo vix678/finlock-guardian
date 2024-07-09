@@ -4,3 +4,4 @@
 // Implement reward distribution feature
 // Add multi-chain transaction support
 // Refactor token distribution mechanism
+// Implement on-chain identity verification
