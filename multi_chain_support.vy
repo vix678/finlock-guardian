@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Refactor token economics model
 // Optimize oracle data fetching mechanism
+// Update smart contract tests
