@@ -5,3 +5,4 @@
 // Refactor contract to use EIP-712 signatures
 // Implement price feed oracles for tokens
 // Optimize storage for off-chain data
+// Fix issue in token vesting logic
