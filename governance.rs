@@ -8,3 +8,4 @@
 // Fix overflow bug in token calculation
 // Integrate staking rewards automation
 // Enhance contract upgrade process
+// Enhance cryptographic primitives in contracts
