@@ -2,3 +2,4 @@
 // Implement automatic transaction retries
 // Refactor wallet interaction logic
 // Refactor storage layout for better efficiency
+// Improve API rate limiting
