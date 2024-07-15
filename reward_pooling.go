@@ -8,3 +8,4 @@
 // Refactor contract state machine design
 // Fix bug in random number generation
 // Implement performance optimizations for DeFi
+// Refactor decentralized exchange (DEX) code
