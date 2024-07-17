@@ -2,3 +2,4 @@
 // Improve contract modularity
 // Improve token minting flow efficiency
 // Improve transaction batching efficiency
+// Refactor multi-signature wallet code
