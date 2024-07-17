@@ -9,3 +9,4 @@
 // Fix issues with token transfer confirmations
 // Optimize state channels for faster transactions
 // Add multi-chain governance support
+// Refactor staking logic
