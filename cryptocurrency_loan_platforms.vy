@@ -5,3 +5,4 @@
 // Update README with Go module examples
 // Optimize cross-chain bridging mechanisms
 // Fix bugs in NFT metadata handling
+// Optimize token minting flow
