@@ -9,3 +9,4 @@
 // Improve contract state management
 // Fix issues with token vesting contracts
 // Improve decentralized exchange (DEX) liquidity
+// Fix compatibility with MetaMask
