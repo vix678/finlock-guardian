@@ -3,3 +3,4 @@
 // Add support for multi-signature wallet contracts
 // Improve on-chain governance systems
 // Enhance token swap functionality
+// Enhance security checks
