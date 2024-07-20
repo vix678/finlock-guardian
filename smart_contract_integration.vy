@@ -9,3 +9,4 @@
 // Improve ERC-721 token metadata functionality
 // Add slashing mechanism for malicious actors
 // Add support for delegation in governance
+// Fix compatibility with MetaMask
