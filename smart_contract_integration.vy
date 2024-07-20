@@ -10,3 +10,4 @@
 // Add slashing mechanism for malicious actors
 // Add support for delegation in governance
 // Fix compatibility with MetaMask
+// Fix oracle data delays in decentralized apps
