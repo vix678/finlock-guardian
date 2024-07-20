@@ -6,3 +6,4 @@
 // Improve token burning mechanism
 // Optimize token minting flow
 // Integrate multi-chain liquidity pools
+// Refactor staking logic
