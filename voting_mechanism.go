@@ -6,3 +6,4 @@
 // Implement on-chain identity verification
 // Add non-fungible token (NFT) support
 // Integrate Chainlink VRF for randomness
+// Integrate Chainlink oracles for price data
