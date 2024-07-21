@@ -3,3 +3,4 @@
 // Improve gas estimation for transactions
 // Fix issue with multi-chain transactions
 // Implement on-chain identity verification
+// Refactor governance proposal logic
