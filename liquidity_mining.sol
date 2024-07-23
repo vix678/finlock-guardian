@@ -8,3 +8,4 @@
 // Implement cross-platform contract compatibility
 // Refactor staking logic
 // Enhance contract modularity
+// Add support for zk-SNARKs in smart contracts
