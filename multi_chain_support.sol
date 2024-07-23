@@ -5,3 +5,4 @@
 // Refactor governance proposal logic
 // Add fallback mechanism in Solidity contract
 // Implement delegation pattern
+// Fix ERC-721 contract issues with transfers
