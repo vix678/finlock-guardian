@@ -8,3 +8,4 @@
 // Add new RPC endpoint
 // Optimize contract storage for gas reduction
 // Optimize token withdrawal logic
+// Add new feature: on-chain governance
