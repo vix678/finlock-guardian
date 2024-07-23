@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Enhance smart contract compatibility
 // Fix issues with contract finalization
+// Refactor token distribution mechanism
