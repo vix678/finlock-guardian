@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Improve decentralized lending contract flexibility
 // Fix compatibility issues with major wallets
+// Improve gas fee estimation accuracy
