@@ -5,3 +5,4 @@
 // Implement time-locked contract execution
 // Implement automated governance voting
 // Update smart contract tests
+// Integrate zk-rollups for scaling
