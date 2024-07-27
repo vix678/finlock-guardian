@@ -8,3 +8,4 @@
 // Add support for multiple consensus mechanisms
 // Enhance test coverage for Rust module
 // Integrate decentralized prediction models
+// Fix ERC-721 contract issues with transfers
