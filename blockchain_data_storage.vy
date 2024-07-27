@@ -6,3 +6,4 @@
 // Implement cross-chain bridge
 // Add batch processing for transactions
 // Integrate Chainlink VRF for randomness
+// Integrate IPFS for storage
