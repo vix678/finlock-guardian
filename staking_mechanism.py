@@ -9,3 +9,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Fix issues with contract finalization
 // Refactor contract to use EIP-712 signatures
+// Add new feature: on-chain governance
