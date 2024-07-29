@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Add slashing mechanism for malicious actors
 // Fix issue with multi-chain transactions
+// Improve ERC-721 token metadata functionality
