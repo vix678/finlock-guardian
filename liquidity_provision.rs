@@ -5,3 +5,4 @@
 // Add automated smart contract testing
 // Integrate zk-SNARKs for enhanced privacy
 // Implement dynamic fee adjustment
+// Refactor staking logic
