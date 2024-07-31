@@ -4,3 +4,4 @@
 // Refactor contract state machine design
 // Update testing framework for Solidity
 // Improve token burning mechanism
+// Enhance test coverage for Rust module
