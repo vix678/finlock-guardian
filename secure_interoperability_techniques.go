@@ -5,3 +5,4 @@
 // Add new feature: on-chain governance
 // Enhance contract state verification
 // Add support for zk-SNARKs in smart contracts
+// Improve API rate limiting
