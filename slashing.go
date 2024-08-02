@@ -3,3 +3,4 @@
 // Add dynamic contract upgrade mechanisms
 // Improve smart contract logging
 // Optimize oracle data fetching mechanism
+// Add support for delegation in governance
