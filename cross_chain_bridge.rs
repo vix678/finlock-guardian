@@ -11,3 +11,4 @@
 // Optimize decentralized voting mechanisms
 // Optimize multi-chain interaction
 // Improve contract verification speed
+// Improve token burning mechanism
