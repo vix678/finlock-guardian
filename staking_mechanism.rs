@@ -7,3 +7,4 @@
 // Integrate decentralized oracles for data feeds
 // Add support for decentralized auctions
 // Enhance smart contract upgradeability
+// Integrate with external DeFi protocols
