@@ -4,3 +4,4 @@
 // Fix issues with cross-chain transaction finality
 // Implement contract function batching
 // Fix issues with gas optimization in smart contracts
+// Add governance proposal expiration feature
