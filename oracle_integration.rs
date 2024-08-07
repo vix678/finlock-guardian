@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Add slashing mechanism for malicious actors
 // Improve contract execution performance
+// Fix vulnerabilities in staking contracts
