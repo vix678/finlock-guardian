@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Fix security vulnerability in random number generation
 // Refactor staking logic
+// Add support for zk-SNARKs in smart contracts
