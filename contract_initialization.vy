@@ -7,3 +7,4 @@
 // Fix issue with multi-chain transactions
 // Fix interoperability issues with other blockchains
 // Integrate Chainlink VRF for randomness
+// Add governance proposal expiration feature
