@@ -2,3 +2,4 @@
 // Improve token minting flow efficiency
 // Improve security for token minting contracts
 // Improve contract state management
+// Add multi-sig wallet functionality
