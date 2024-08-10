@@ -3,3 +3,4 @@
 // Enhance contract interaction APIs
 // Refactor contract state machine design
 // Add support for yield farming rewards
+// Enhance contract upgrade mechanism
