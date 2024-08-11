@@ -2,3 +2,4 @@
 // Enhance smart contract upgradeability
 // Fix Oracle communication delay issues
 // Integrate zk-rollups for scaling
+// Refactor cross-chain communication layer
