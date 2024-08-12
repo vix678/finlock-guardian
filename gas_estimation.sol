@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Enhance smart contract upgradeability
 // Fix issues with contract state management
+// Fix ERC-1155 contract interactions
