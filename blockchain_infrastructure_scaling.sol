@@ -4,3 +4,4 @@
 // Improve contract execution speed
 // Add native support for staking mechanisms
 // Add support for delegation in governance
+// Improve contract interaction via APIs
