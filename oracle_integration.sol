@@ -5,3 +5,4 @@
 // Add support for fractional token ownership
 // Fix errors in NFT minting logic
 // Optimize storage for off-chain data
+// Fix security vulnerability in random number generation
