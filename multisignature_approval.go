@@ -4,3 +4,4 @@
 // Improve on-chain governance systems
 // Enhance token swap functionality
 // Enhance security checks
+// Improve ERC-721 token metadata functionality
