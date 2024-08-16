@@ -8,3 +8,4 @@
 // Fix interoperability issues with other blockchains
 // Integrate Chainlink VRF for randomness
 // Add governance proposal expiration feature
+// Implement time-locked contract execution
