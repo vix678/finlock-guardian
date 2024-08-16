@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Refactor governance token logic
 // Optimize WASM compilation for Go contracts
+// Optimize gas usage in smart contracts
