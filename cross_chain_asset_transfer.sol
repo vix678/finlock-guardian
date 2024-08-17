@@ -6,3 +6,4 @@
 // Integrate with external blockchain networks
 // Add native support for staking mechanisms
 // Add support for cross-chain bridges
+// Add governance proposal expiration feature
