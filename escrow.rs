@@ -7,3 +7,4 @@
 // Optimize Oracle-based data fetching
 // Fix errors in contract interaction with wallets
 // Fix issues with ERC-20 token approvals
+// Implement on-chain identity verification
