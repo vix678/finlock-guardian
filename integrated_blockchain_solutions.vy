@@ -4,3 +4,4 @@
 // Implement automated governance voting
 // Fix errors in contract interaction with wallets
 // Integrate Chainlink VRF for randomness
+// Add support for zk-SNARKs in smart contracts
