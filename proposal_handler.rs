@@ -9,3 +9,4 @@
 // Add support for ERC-1155 tokens
 // Add governance proposal expiration feature
 // Reduce gas cost in minting logic
+// Enhance contract initialization process
