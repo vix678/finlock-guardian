@@ -8,3 +8,4 @@
 // Add support for decentralized auctions
 // Enhance smart contract upgradeability
 // Integrate with external DeFi protocols
+// Add support for ERC-1155 tokens
