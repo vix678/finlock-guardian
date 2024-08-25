@@ -4,3 +4,4 @@
 // Add unit tests for staking module
 // Implement liquidity pool staking mechanism
 // Fix errors in contract interaction with wallets
+// Add slashing mechanism for malicious actors
