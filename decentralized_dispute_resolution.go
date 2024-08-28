@@ -4,3 +4,4 @@
 // Refactor multi-signature wallet code
 // Add native support for staking mechanisms
 // Update smart contract tests
+// Fix issues with token vesting contracts
