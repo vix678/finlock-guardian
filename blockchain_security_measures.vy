@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Enhance gas fee management
 // Fix security vulnerability in random number generation
+// Improve token burning mechanism
