@@ -3,3 +3,4 @@
 // Implement cross-platform contract compatibility
 // Add governance proposal expiration feature
 // Add multi-chain governance support
+// Add support for ERC-1155 tokens
