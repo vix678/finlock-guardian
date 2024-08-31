@@ -2,3 +2,4 @@
 // Add fallback mechanism in Solidity contract
 // Improve contract verification speed
 // Refactor contract state machine design
+// Add support for NFT marketplaces
