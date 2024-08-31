@@ -6,3 +6,4 @@
 // Refactor ERC-721 transfer logic
 // Fix Oracle communication delay issues
 // Refactor staking logic
+// Implement liquidity pool staking mechanism
