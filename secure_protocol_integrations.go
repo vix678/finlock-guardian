@@ -3,3 +3,4 @@
 // Fix issues with cross-chain transaction finality
 // Fix ERC-1155 contract interactions
 // Enhance governance contract flexibility
+// Fix bugs in NFT metadata handling
