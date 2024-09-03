@@ -4,3 +4,4 @@
 // Improve transaction batching efficiency
 // Refactor multi-signature wallet code
 // Refactor contract event emission
+// Improve decentralized exchange (DEX) liquidity
