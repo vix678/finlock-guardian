@@ -5,3 +5,4 @@
 // Fix issue with multi-chain transactions
 // Improve multi-chain contract deployment
 // Add support for decentralized file storage
+// Enhance smart contract state changes monitoring
