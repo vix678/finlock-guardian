@@ -6,3 +6,4 @@
 // Implement price feed oracles for tokens
 // Optimize storage for off-chain data
 // Fix issue in token vesting logic
+// Add support for Layer-2 solutions
