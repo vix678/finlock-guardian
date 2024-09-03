@@ -10,3 +10,4 @@
 // Enhance contract modularity
 // Add support for zk-SNARKs in smart contracts
 // Update README with Go module examples
+// Enhance smart contract compatibility
