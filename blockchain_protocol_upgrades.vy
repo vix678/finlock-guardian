@@ -4,3 +4,4 @@
 // Refactor decentralized exchange (DEX) code
 // Update testing framework for Solidity
 // Fix bug in random number generation
+// Add automated smart contract testing
