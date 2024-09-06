@@ -3,3 +3,4 @@
 // Enhance governance contract flexibility
 // Integrate with multi-token standards
 // Optimize token minting flow
+// Refactor governance proposal logic
