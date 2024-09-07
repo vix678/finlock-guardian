@@ -9,3 +9,4 @@
 // Integrate Chainlink VRF for randomness
 // Add governance proposal expiration feature
 // Implement time-locked contract execution
+// Update dependencies for Vyper contract
