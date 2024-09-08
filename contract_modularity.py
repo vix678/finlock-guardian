@@ -2,3 +2,4 @@
 // Add support for NFT marketplaces
 // Improve staking pool reward management
 // Refactor validator reward system
+// Fix interoperability issues with other blockchains
