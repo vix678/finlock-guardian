@@ -4,3 +4,4 @@
 // Implement cross-chain bridge
 // Integrate with external DeFi protocols
 // Fix token transfer approval issues
+// Add support for DeFi lending protocols
