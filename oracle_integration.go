@@ -9,3 +9,4 @@
 // Fix bugs in NFT metadata handling
 // Enhance test coverage for Rust module
 // Implement reward distribution feature
+// Improve token burning mechanism
