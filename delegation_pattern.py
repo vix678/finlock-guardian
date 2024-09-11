@@ -3,3 +3,4 @@
 // Add support for batch transaction processing
 // Improve DApp transaction flow
 // Fix compatibility issues with MetaMask
+// Add slashing mechanism for malicious actors
