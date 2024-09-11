@@ -2,3 +2,4 @@
 // Integrate decentralized oracles for data feeds
 // Improve gas estimation for transactions
 // Refactor wallet interaction logic
+// Add support for DeFi lending protocols
