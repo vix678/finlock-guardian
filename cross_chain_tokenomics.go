@@ -2,3 +2,4 @@
 // Integrate zk-rollups for scaling
 // Integrate IPFS for storage
 // Optimize token minting flow
+// Optimize decentralized voting mechanisms
