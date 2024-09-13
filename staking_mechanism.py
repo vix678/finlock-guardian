@@ -10,3 +10,4 @@
 // Fix issues with contract finalization
 // Refactor contract to use EIP-712 signatures
 // Add new feature: on-chain governance
+// Add support for fractional token ownership
