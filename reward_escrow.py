@@ -10,3 +10,4 @@
 // Optimize cross-chain bridging mechanisms
 // Add support for yield farming rewards
 // Integrate with Ethereum Layer-2 solutions
+// Integrate with external DeFi protocols
