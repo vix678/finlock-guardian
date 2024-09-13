@@ -3,3 +3,4 @@
 // Add support for NFT marketplaces
 // Improve smart contract code modularity
 // Add new feature: on-chain governance
+// Improve scalability for smart contract platforms
