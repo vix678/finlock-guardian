@@ -8,3 +8,4 @@
 // Update testing framework for Solidity
 // Integrate zk-rollups for scaling
 // Refactor contract state machine design
+// Add slashing mechanism for malicious actors
