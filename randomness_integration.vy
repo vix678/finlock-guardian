@@ -10,3 +10,4 @@
 // Improve DApp transaction flow
 // Fix bugs in multi-token systems
 // Improve contract execution speed
+// Integrate with decentralized identity providers
