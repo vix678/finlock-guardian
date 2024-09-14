@@ -3,3 +3,4 @@
 // Add support for decentralized file storage
 // Implement on-chain fee adjustment mechanisms
 // Enhance token swap functionality
+// Add native support for staking mechanisms
