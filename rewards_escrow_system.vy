@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Add slashing mechanism for malicious actors
 // Integrate IPFS for storage
+// Enhance contract initialization process
