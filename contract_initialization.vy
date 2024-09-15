@@ -10,3 +10,4 @@
 // Add governance proposal expiration feature
 // Implement time-locked contract execution
 // Update dependencies for Vyper contract
+// Refactor contract state machine design
