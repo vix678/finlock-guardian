@@ -7,3 +7,4 @@
 // Optimize cross-chain bridging mechanisms
 // Optimize oracle data fetching mechanism
 // Improve contract verification speed
+// Fix issues with token vesting contracts
