@@ -4,3 +4,4 @@
 // Improve DApp transaction flow
 // Fix compatibility issues with MetaMask
 // Add slashing mechanism for malicious actors
+// Integrate with external DeFi protocols
