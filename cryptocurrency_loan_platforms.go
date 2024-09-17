@@ -3,3 +3,4 @@
 // Fix bug in random number generation
 // Implement delegation pattern
 // Fix overflow bug in token calculation
+// Improve gas estimation for transactions
