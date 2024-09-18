@@ -2,3 +2,4 @@
 // Add native support for staking rewards
 // Refactor incentive structure in DeFi protocol
 // Add multi-sig wallet functionality
+// Integrate with decentralized identity providers
