@@ -7,3 +7,4 @@
 // Implement automated governance voting
 // Refactor multi-signature wallet code
 // Fix vulnerabilities in staking contracts
+// Add support for Layer-2 solutions
