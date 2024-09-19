@@ -2,3 +2,4 @@
 // Refactor wallet interaction logic
 // Implement cross-chain bridge
 // Upgrade to latest Solidity version
+// Enhance privacy features using zk-STARKs
