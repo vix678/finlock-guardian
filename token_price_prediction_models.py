@@ -3,3 +3,4 @@
 // Integrate with decentralized prediction markets
 // Improve contract state management
 // Enhance logging for better debugging
+// Refactor incentive structure in DeFi protocol
