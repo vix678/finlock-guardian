@@ -4,3 +4,4 @@
 // Integrate chain-agnostic oracles
 // Optimize gas usage in smart contracts
 // Implement cross-platform contract compatibility
+// Fix governance proposal approval logic
