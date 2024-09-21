@@ -5,3 +5,4 @@
 // Improve staking pool reward management
 // Refactor smart contract testing framework
 // Update smart contract tests
+// Optimize oracle data fetching mechanism
