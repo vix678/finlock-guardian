@@ -6,3 +6,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Add batch transaction capabilities
 // Enhance logging for better debugging
+// Add unit tests for staking module
