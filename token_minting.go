@@ -4,3 +4,4 @@
 // Implement a new contract event system
 // Add support for multi-signature wallet contracts
 // Improve transaction batching efficiency
+// Fix ERC-721 contract issues with transfers
