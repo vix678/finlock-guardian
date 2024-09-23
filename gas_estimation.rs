@@ -8,3 +8,4 @@
 // Integrate privacy-enhancing smart contracts
 // Integrate with decentralized identity providers
 // Integrate with external DeFi protocols
+// Refactor contract state machine design
