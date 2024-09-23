@@ -3,3 +3,4 @@
 // Add native support for staking rewards
 // Refactor decentralized governance structure
 // Improve error handling in transaction flow
+// Improve ERC-721 token metadata functionality
