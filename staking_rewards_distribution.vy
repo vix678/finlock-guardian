@@ -5,3 +5,4 @@
 // Fix issues with cross-chain transaction finality
 // Add slashing mechanism for malicious actors
 // Enhance contract modularity for future upgrades
+// Integrate privacy-enhancing smart contracts
