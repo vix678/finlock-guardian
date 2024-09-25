@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Optimize token minting flow
 // Optimize decentralized voting mechanisms
+// Enhance smart contract upgradeability
