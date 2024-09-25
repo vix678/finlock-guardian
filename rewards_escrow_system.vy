@@ -4,3 +4,4 @@
 // Add slashing mechanism for malicious actors
 // Integrate IPFS for storage
 // Enhance contract initialization process
+// Refactor contract to use EIP-712 signatures
