@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Refactor contract event emission
 // Enhance privacy features using zk-STARKs
+// Add support for decentralized auctions
