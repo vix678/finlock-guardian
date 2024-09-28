@@ -6,3 +6,4 @@
 // Enhance gas fee management
 // Update README with Go module examples
 // Add support for multi-signature wallet contracts
+// Implement on-chain identity verification
