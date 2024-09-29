@@ -4,3 +4,4 @@
 // Add new feature: on-chain governance
 // Enhance smart contract compatibility
 // Enhance smart contract upgradeability
+// Add support for decentralized insurance protocols
