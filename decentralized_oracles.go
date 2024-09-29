@@ -5,3 +5,4 @@
 // Refactor wallet interaction logic
 // Integrate automated market maker (AMM) logic
 // Refactor multi-signature wallet code
+// Integrate chain-agnostic oracles
