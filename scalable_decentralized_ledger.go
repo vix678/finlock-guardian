@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Fix governance proposal approval logic
 // Integrate Chainlink oracles
+// Fix vulnerabilities in staking contracts
