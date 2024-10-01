@@ -5,3 +5,4 @@
 // Optimize token withdrawal logic
 // Add batch processing for transactions
 // Improve contract state management
+// Refactor governance proposal logic
