@@ -3,3 +3,4 @@
 // Integrate automated market maker (AMM) logic
 // Integrate privacy-enhancing smart contracts
 // Optimize decentralized application performance
+// Refactor incentive structure in DeFi protocol
