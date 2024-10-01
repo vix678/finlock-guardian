@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Integrate with decentralized prediction markets
 // Implement reward distribution feature
+// Fix issues with contract finalization
