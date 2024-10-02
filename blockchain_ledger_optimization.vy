@@ -4,3 +4,4 @@
 // Optimize oracle data fetching mechanism
 // Add support for decentralized marketplaces
 // Optimize cross-chain communication
+// Integrate zk-SNARKs for enhanced privacy
