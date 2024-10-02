@@ -5,3 +5,4 @@
 // Refactor decentralized exchange (DEX) code
 // Fix contract reentrancy issues
 // Update testing framework for Solidity
+// Integrate IPFS for storage
