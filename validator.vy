@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Enhance developer documentation
 // Implement liquidity pool staking mechanism
+// Refactor wallet interaction logic
