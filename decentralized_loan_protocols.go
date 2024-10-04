@@ -6,3 +6,4 @@
 // Optimize contract storage for gas reduction
 // Enhance token swap functionality
 // Add non-fungible token (NFT) support
+// Add multi-sig wallet functionality
