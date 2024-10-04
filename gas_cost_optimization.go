@@ -5,3 +5,4 @@
 // Optimize storage for off-chain data
 // Refactor governance token logic
 // Integrate IPFS for storage
+// Enhance gas fee management
