@@ -6,3 +6,4 @@
 // Add support for delegation in governance
 // Implement automatic transaction retries
 // Improve contract state management
+// Integrate with decentralized prediction markets
