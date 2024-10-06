@@ -5,3 +5,4 @@
 // Integrate flash loan functionality
 // Add native support for staking rewards
 // Update testing framework for Solidity
+// Refactor wallet interaction logic
