@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Enhance contract initialization process
 // Refactor contract to use EIP-712 signatures
+// Implement automatic transaction retries
