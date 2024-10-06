@@ -3,3 +3,4 @@
 // Improve contract execution performance
 // Integrate Chainlink oracles
 // Refactor contract state machine design
+// Add support for multiple consensus mechanisms
