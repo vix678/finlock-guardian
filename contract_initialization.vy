@@ -11,3 +11,4 @@
 // Implement time-locked contract execution
 // Update dependencies for Vyper contract
 // Refactor contract state machine design
+// Add support for NFT marketplaces
