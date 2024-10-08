@@ -3,3 +3,4 @@
 // Improve contract verification speed
 // Integrate IPFS for storage
 // Bugfix: incorrect reward calculation
+// Enhance token swap functionality
