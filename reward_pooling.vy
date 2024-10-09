@@ -7,3 +7,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Enhance contract upgrade mechanism
 // Optimize contract upgrade process
+// Integrate zk-SNARKs for enhanced privacy
