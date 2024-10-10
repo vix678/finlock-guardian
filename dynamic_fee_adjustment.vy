@@ -8,3 +8,4 @@
 // Refactor multi-signature wallet code
 // Fix vulnerabilities in staking contracts
 // Add support for Layer-2 solutions
+// Add support for batch transaction processing
