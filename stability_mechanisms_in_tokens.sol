@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Optimize gas usage in smart contracts
 // Enhance security checks
+// Refactor contract to use EIP-712 signatures
