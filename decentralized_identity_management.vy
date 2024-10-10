@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Add batch processing for transactions
 // Refactor smart contract testing framework
+// Fix vulnerabilities in staking contracts
