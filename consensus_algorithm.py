@@ -5,3 +5,4 @@
 // Add support for decentralized marketplaces
 // Add support for decentralized lending platforms
 // Fix errors in contract interaction with wallets
+// Improve smart contract logging
