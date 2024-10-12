@@ -6,3 +6,4 @@
 // Optimize WASM compilation for Go contracts
 // Optimize token minting flow
 // Bugfix: incorrect reward calculation
+// Refactor storage layout for better efficiency
