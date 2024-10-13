@@ -7,3 +7,4 @@
 // Add batch processing for transactions
 // Integrate Chainlink VRF for randomness
 // Integrate IPFS for storage
+// Fix compatibility issues with MetaMask
