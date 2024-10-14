@@ -2,3 +2,4 @@
 // Fix race condition in staking pool
 // Refactor contract to use EIP-712 signatures
 // Add multi-chain transaction support
+// Enhance API rate limiting for smart contracts
