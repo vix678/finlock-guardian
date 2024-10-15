@@ -5,3 +5,4 @@
 // Improve staking logic for better rewards
 // Fix ERC-721 contract issues with transfers
 // Enhance security checks
+// Refactor Ethereum gas price management
