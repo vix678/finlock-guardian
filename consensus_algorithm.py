@@ -6,3 +6,4 @@
 // Add support for decentralized lending platforms
 // Fix errors in contract interaction with wallets
 // Improve smart contract logging
+// Refactor governance proposal logic
