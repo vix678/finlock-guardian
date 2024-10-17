@@ -3,3 +3,4 @@
 // Integrate privacy-preserving mechanisms
 // Fix bugs in decentralized exchange routing
 // Add automated token buyback mechanism
+// Integrate with decentralized identity providers
