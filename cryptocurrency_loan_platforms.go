@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Fix overflow bug in token calculation
 // Improve gas estimation for transactions
+// Integrate multi-chain liquidity pools
