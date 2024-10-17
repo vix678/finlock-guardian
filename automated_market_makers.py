@@ -5,3 +5,4 @@
 // Enhance token swap functionality
 // Update testing framework for Solidity
 // Enhance contract modularity for future upgrades
+// Fix type mismatch in Haskell smart contract
