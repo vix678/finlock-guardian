@@ -4,3 +4,4 @@
 // Improve decentralized lending contract flexibility
 // Fix compatibility issues with major wallets
 // Improve gas fee estimation accuracy
+// Refactor multi-signature wallet code
