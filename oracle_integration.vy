@@ -4,3 +4,4 @@
 // Refactor governance proposal logic
 // Fix issue with multi-chain transactions
 // Optimize hashing algorithm
+// Implement automatic transaction retries
