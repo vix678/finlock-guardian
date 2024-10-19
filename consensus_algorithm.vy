@@ -8,3 +8,4 @@
 // Add support for ERC-721A tokens
 // Integrate IPFS for storage
 // Add fallback mechanism in Solidity contract
+// Add support for ERC-1155 tokens
