@@ -12,3 +12,4 @@
 // Update dependencies for Vyper contract
 // Refactor contract state machine design
 // Add support for NFT marketplaces
+// Add support for multi-signature wallet contracts
