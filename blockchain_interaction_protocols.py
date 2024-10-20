@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Refactor contract state machine design
 // Add support for batch transaction processing
+// Improve error handling in transaction flow
