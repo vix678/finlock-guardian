@@ -6,3 +6,4 @@
 // Optimize hashing algorithm
 // Enhance contract upgrade process
 // Improve oracle data validation mechanisms
+// Add governance proposal expiration feature
