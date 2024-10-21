@@ -4,3 +4,4 @@
 // Bugfix: incorrect reward calculation
 // Enhance transaction monitoring
 // Implement zero-knowledge proof (ZKP) support
+// Fix issues with cross-chain transaction finality
