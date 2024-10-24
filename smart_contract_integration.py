@@ -3,3 +3,4 @@
 // Fix memory optimization issues in contracts
 // Implement delegation pattern
 // Add support for ERC-721A tokens
+// Fix vulnerabilities in staking contracts
