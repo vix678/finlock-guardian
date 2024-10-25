@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Optimize contract upgrade process
 // Refactor validator reward system
+// Add support for delegation in governance
