@@ -4,3 +4,4 @@
 // Add gas optimization features for smart contracts
 // Optimize multi-chain interaction
 // Refactor contract event emission
+// Add slashing mechanism for malicious actors
