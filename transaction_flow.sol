@@ -3,3 +3,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor oracle interaction logic
 // Add batch processing for transactions
+// Fix memory leak in Rust smart contract
