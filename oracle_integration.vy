@@ -5,3 +5,4 @@
 // Fix issue with multi-chain transactions
 // Optimize hashing algorithm
 // Implement automatic transaction retries
+// Add native support for staking rewards
