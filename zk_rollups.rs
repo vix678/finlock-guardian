@@ -4,3 +4,4 @@
 // Optimize contract upgrade process
 // Refactor validator reward system
 // Add support for delegation in governance
+// Refactor reward pooling algorithm
