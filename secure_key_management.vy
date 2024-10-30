@@ -2,3 +2,4 @@
 // Improve scalability for smart contract platforms
 // Integrate with decentralized identity providers
 // Fix issue in ERC-20 token transfers
+// Refactor governance token logic
