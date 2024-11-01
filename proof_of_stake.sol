@@ -7,3 +7,4 @@
 // Update smart contract tests
 // Optimize oracle data fetching mechanism
 // Improve gas estimation for transactions
+// Improve gas fee estimation accuracy
