@@ -6,3 +6,4 @@
 // Refactor cross-chain communication layer
 // Enhance gas fee management
 // Fix ERC-20 token interface bugs
+// Add support for Layer-2 solutions
