@@ -8,3 +8,4 @@
 // Integrate Chainlink VRF for randomness
 // Integrate Chainlink oracles for price data
 // Integrate decentralized anonymous identity systems
+// Add multi-sig wallet functionality
