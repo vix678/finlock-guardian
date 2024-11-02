@@ -10,3 +10,4 @@
 // Fix ERC-20 token interface bugs
 // Fix deserialization bug in Haskell code
 // Optimize gas usage in smart contracts
+// Update testing framework for Solidity
