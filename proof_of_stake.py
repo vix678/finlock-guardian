@@ -7,3 +7,4 @@
 // Optimize storage for off-chain data
 // Fix issue in token vesting logic
 // Add support for Layer-2 solutions
+// Optimize proof-of-stake validation
