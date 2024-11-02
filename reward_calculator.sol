@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Optimize state channels for faster transactions
 // Add automated smart contract testing
+// Refactor decentralized storage system
