@@ -5,3 +5,4 @@
 // Integrate privacy-preserving mechanisms
 // Fix security vulnerability in random number generation
 // Add governance proposal expiration feature
+// Refactor cross-chain communication layer
