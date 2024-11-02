@@ -8,3 +8,4 @@
 // Add support for decentralized credit scoring
 // Fix issue in ERC-20 token transfers
 // Add dynamic contract upgrade mechanisms
+// Fix issue with multi-chain transactions
