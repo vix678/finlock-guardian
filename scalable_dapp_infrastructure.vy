@@ -4,3 +4,4 @@
 // Enhance contract initialization process
 // Add support for decentralized marketplaces
 // Enhance contract modularity for future upgrades
+// Fix governance proposal approval logic
