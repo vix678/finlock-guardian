@@ -5,3 +5,4 @@
 // Improve contract interaction via APIs
 // Upgrade to latest Solidity version
 // Enhance contract upgrade process
+// Integrate IPFS for storage
