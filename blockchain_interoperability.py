@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Add support for decentralized file storage
 // Refactor reward pooling algorithm
+// Update testing framework for Solidity
