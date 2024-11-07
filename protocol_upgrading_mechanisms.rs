@@ -5,3 +5,4 @@
 // Add new feature: on-chain governance
 // Improve scalability for smart contract platforms
 // Refactor decentralized storage system
+// Integrate IPFS for storage
