@@ -6,3 +6,4 @@
 // Fix issues with token vesting contracts
 // Enhance contract event handling
 // Optimize hashing algorithm
+// Update README with Go module examples
