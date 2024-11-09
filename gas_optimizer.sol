@@ -4,3 +4,4 @@
 // Add automated contract testing tools
 // Refactor ERC-721 transfer logic
 // Reduce gas cost in minting logic
+// Refactor storage layout for better efficiency
