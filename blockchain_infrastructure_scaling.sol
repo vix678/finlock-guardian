@@ -6,3 +6,4 @@
 // Add support for delegation in governance
 // Improve contract interaction via APIs
 // Integrate zk-rollups for scaling
+// Fix overflow bug in token calculation
