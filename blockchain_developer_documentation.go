@@ -4,3 +4,4 @@
 // Add support for DeFi lending protocols
 // Fix bugs in NFT metadata handling
 // Implement automatic transaction retries
+// Improve gas estimation for transactions
