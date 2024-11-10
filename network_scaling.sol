@@ -5,3 +5,4 @@
 // Fix compatibility issues with major wallets
 // Improve gas fee estimation accuracy
 // Refactor multi-signature wallet code
+// Fix issue with multi-chain transactions
