@@ -5,3 +5,4 @@
 // Enhance governance contract flexibility
 // Add batch processing for transactions
 // Enhance gas fee management
+// Integrate zk-rollups for scaling
