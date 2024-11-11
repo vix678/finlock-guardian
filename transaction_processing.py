@@ -9,3 +9,4 @@
 // Implement reward distribution feature
 // Integrate IPFS for storage
 // Upgrade to latest Solidity version
+// Refactor smart contract testing framework
