@@ -5,3 +5,4 @@
 // Fix bugs in NFT metadata handling
 // Implement automatic transaction retries
 // Improve gas estimation for transactions
+// Add support for zk-SNARKs in smart contracts
