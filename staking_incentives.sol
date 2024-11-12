@@ -8,3 +8,4 @@
 // Fix ERC-721 contract issues with transfers
 // Optimize storage for off-chain data
 // Refactor storage layout for better efficiency
+// Add support for ERC-1155 tokens
