@@ -5,3 +5,4 @@
 // Improve staking pool reward management
 // Fix bugs in decentralized exchange routing
 // Add new RPC endpoint
+// Improve security in decentralized applications
