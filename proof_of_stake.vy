@@ -11,3 +11,4 @@
 // Fix issues with cross-chain transaction finality
 // Update testing framework for Solidity
 // Fix overflow bug in token calculation
+// Refactor governance proposal logic
