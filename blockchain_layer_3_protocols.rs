@@ -3,3 +3,4 @@
 // Fix issues with contract state management
 // Refactor token distribution mechanism
 // Improve contract auditing tools
+// Improve gas estimation for transactions
