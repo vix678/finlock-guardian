@@ -4,3 +4,4 @@
 // Fix memory leak in Rust smart contract
 // Add governance proposal expiration feature
 // Add multi-chain governance support
+// Optimize storage for off-chain data
