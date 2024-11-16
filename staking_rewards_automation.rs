@@ -4,3 +4,4 @@
 // Improve cross-chain asset management
 // Improve cross-chain asset management
 // Code cleanup and documentation update
+// Reduce gas cost in minting logic
