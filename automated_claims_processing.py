@@ -6,3 +6,4 @@
 // Add batch processing for transactions
 // Enhance gas fee management
 // Integrate zk-rollups for scaling
+// Refactor ERC-721 transfer logic
