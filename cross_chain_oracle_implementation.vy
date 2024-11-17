@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Enhance off-chain data processing
 // Add native support for staking rewards
+// Add support for batch transaction processing
