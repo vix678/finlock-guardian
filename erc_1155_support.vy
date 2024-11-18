@@ -3,3 +3,4 @@
 // Improve decentralized identity (DID) systems
 // Update dependencies for Vyper contract
 // Fix compatibility issues with major wallets
+// Add multi-chain transaction support
