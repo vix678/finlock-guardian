@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles
 // Refactor contract state machine design
 // Add support for multiple consensus mechanisms
+// Integrate with external DeFi protocols
