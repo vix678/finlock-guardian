@@ -2,3 +2,4 @@
 // Fix contract reentrancy issues
 // Fix data consistency issues in smart contracts
 // Optimize state channels for faster transactions
+// Fix governance proposal approval logic
