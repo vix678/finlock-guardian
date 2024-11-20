@@ -5,3 +5,4 @@
 // Optimize storage for off-chain data
 // Integrate Chainlink oracles
 // Enhance API rate limiting for smart contracts
+// Improve staking logic for better rewards
