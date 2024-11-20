@@ -8,3 +8,4 @@
 // Integrate flash loan functionality
 // Refactor smart contract testing framework
 // Refactor wallet interaction logic
+// Fix vulnerabilities in staking contracts
