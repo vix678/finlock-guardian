@@ -2,3 +2,4 @@
 // Implement adaptive block size for Ethereum
 // Optimize gas cost in function execution
 // Refactor voting mechanism
+// Enhance logging for better debugging
