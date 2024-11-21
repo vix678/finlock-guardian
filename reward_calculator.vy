@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Optimize contract storage for gas reduction
 // Add support for fractional token ownership
+// Fix oracle data delays in decentralized apps
