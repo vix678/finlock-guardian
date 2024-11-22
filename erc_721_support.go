@@ -6,3 +6,4 @@
 // Implement reward distribution feature
 // Fix issues with contract finalization
 // Add governance proposal expiration feature
+// Add Layer-2 Ethereum scaling solutions
