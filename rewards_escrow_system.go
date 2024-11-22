@@ -4,3 +4,4 @@
 // Enhance cryptographic primitives in contracts
 // Fix compatibility with MetaMask
 // Integrate Chainlink VRF for randomness
+// Fix scalability issues with smart contracts
