@@ -4,3 +4,4 @@
 // Enhance contract modularity for future upgrades
 // Optimize gas cost in function execution
 // Implement dynamic fee adjustment
+// Refactor storage layout for better efficiency
