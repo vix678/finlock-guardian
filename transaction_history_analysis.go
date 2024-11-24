@@ -4,3 +4,4 @@
 // Optimize decentralized oracle performance
 // Integrate zk-rollups for scaling
 // Enhance privacy features using zk-STARKs
+// Integrate with external DeFi protocols
