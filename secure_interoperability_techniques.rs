@@ -4,3 +4,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Enhance token swap functionality
 // Add native support for staking mechanisms
+// Fix overflow bug in token calculation
