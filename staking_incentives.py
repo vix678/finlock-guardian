@@ -6,3 +6,4 @@
 // Fix errors in contract interaction with wallets
 // Add slashing mechanism for malicious actors
 // Add new RPC endpoint
+// Optimize storage for off-chain data
