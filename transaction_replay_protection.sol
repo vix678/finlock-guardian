@@ -9,3 +9,4 @@
 // Improve token minting flow efficiency
 // Improve decentralized oracle protocols
 // Implement delegation pattern
+// Refactor storage layout for better efficiency
