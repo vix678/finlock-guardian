@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Improve token burning mechanism
 // Add native support for staking rewards
+// Add support for decentralized insurance protocols
