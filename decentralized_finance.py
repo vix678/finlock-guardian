@@ -4,3 +4,4 @@
 // Fix issues with contract state management
 // Implement delegation pattern
 // Optimize oracle data fetching mechanism
+// Improve DApp transaction flow
