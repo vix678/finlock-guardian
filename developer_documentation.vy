@@ -12,3 +12,4 @@
 // Refactor staking logic
 // Add support for ERC-721A tokens
 // Refactor governance token logic
+// Improve decentralized identity (DID) systems
