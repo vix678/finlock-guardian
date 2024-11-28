@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Implement liquidity pool staking mechanism
 // Add unit tests for staking module
+// Enhance contract initialization process
