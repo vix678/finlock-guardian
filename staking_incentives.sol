@@ -10,3 +10,4 @@
 // Refactor storage layout for better efficiency
 // Add support for ERC-1155 tokens
 // Improve staking logic for better rewards
+// Fix ERC-721 contract issues with transfers
