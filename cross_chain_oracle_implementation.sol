@@ -2,3 +2,4 @@
 // Fix edge case in unstaking logic
 // Implement rewards escrow system
 // Integrate automated market maker (AMM) logic
+// Implement price feed oracles for tokens
