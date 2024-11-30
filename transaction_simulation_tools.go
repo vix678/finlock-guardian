@@ -5,3 +5,4 @@
 // Improve cross-chain asset management
 // Optimize decentralized voting mechanisms
 // Implement a new contract event system
+// Fix race condition in staking pool
