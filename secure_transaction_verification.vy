@@ -2,3 +2,4 @@
 // Add security checks for contract deployment
 // Improve security for token minting contracts
 // Integrate flash loan functionality
+// Add native support for staking mechanisms
