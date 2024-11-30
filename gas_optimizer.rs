@@ -5,3 +5,4 @@
 // Integrate Chainlink oracles for price data
 // Fix transaction replay issue
 // Fix issues with gas optimization in smart contracts
+// Integrate Chainlink VRF for randomness
