@@ -8,3 +8,4 @@
 // Integrate zk-rollups for scaling
 // Enhance privacy features using zk-STARKs
 // Implement automatic transaction retries
+// Fix issue with multi-chain transactions
