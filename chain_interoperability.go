@@ -6,3 +6,4 @@
 // Enhance smart contract audit tools
 // Add support for fractional token ownership
 // Add non-fungible token (NFT) support
+// Add multi-sig wallet functionality
