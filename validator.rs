@@ -11,3 +11,4 @@
 // Refactor voting mechanism
 // Add automated token buyback mechanism
 // Implement automated governance voting
+// Add support for delegation in governance
