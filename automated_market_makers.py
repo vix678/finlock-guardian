@@ -6,3 +6,4 @@
 // Update testing framework for Solidity
 // Enhance contract modularity for future upgrades
 // Fix type mismatch in Haskell smart contract
+// Fix issue in ERC-20 token transfers
