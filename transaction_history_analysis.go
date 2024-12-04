@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Enhance privacy features using zk-STARKs
 // Integrate with external DeFi protocols
+// Fix security vulnerability in random number generation
