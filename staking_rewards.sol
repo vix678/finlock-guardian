@@ -3,3 +3,4 @@
 // Fix ERC-1155 contract interactions
 // Add Layer-2 Ethereum scaling solutions
 // Fix governance proposal approval logic
+// Integrate zk-rollups for scaling
