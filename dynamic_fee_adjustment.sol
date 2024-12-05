@@ -11,3 +11,4 @@
 // Fix deserialization bug in Haskell code
 // Optimize gas usage in smart contracts
 // Update testing framework for Solidity
+// Refactor reward pooling algorithm
