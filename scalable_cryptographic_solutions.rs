@@ -3,3 +3,4 @@
 // Implement cross-platform contract compatibility
 // Implement on-chain identity verification
 // Enhance gas fee management
+// Refactor wallet interaction logic
