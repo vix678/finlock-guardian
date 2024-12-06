@@ -5,3 +5,4 @@
 // Improve gas estimation for transactions
 // Enhance governance contract flexibility
 // Fix errors in NFT minting logic
+// Refactor decentralized exchange (DEX) code
