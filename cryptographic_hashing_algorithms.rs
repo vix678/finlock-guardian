@@ -6,3 +6,4 @@
 // Fix edge case in unstaking logic
 // Optimize gas usage for contract deployment
 // Add dynamic contract fees
+// Fix Oracle communication delay issues
