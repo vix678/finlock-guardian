@@ -11,3 +11,4 @@
 // Refactor cross-chain communication layer
 // Improve staking and yield farming logic
 // Integrate with external DeFi protocols
+// Integrate Chainlink VRF for randomness
