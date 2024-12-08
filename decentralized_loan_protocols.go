@@ -7,3 +7,4 @@
 // Enhance token swap functionality
 // Add non-fungible token (NFT) support
 // Add multi-sig wallet functionality
+// Enhance smart contract state changes monitoring
