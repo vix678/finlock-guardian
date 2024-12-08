@@ -4,3 +4,4 @@
 // Update README with Go module examples
 // Refactor contract to use EIP-712 signatures
 // Add support for DeFi lending protocols
+// Add dynamic contract fees
