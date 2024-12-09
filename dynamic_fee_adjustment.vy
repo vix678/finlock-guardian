@@ -10,3 +10,4 @@
 // Add support for Layer-2 solutions
 // Add support for batch transaction processing
 // Implement a new contract event system
+// Refactor storage layout for better efficiency
