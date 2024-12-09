@@ -9,3 +9,4 @@
 // Enhance contract interaction APIs
 // Integrate zk-rollups for scaling
 // Implement on-chain identity verification
+// Add support for DeFi lending protocols
