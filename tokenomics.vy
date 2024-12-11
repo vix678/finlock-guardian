@@ -5,3 +5,4 @@
 // Add native support for staking rewards
 // Integrate IPFS for storage
 // Implement liquidity pool staking mechanism
+// Implement cross-chain bridge
