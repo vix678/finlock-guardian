@@ -6,3 +6,4 @@
 // Fix issues with gas optimization in smart contracts
 // Add batch processing for transactions
 // Enhance API rate limiting for smart contracts
+// Integrate Chainlink VRF for randomness
