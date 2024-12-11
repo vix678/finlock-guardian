@@ -2,3 +2,4 @@
 // Fix errors in NFT minting logic
 // Refactor contract event emission
 // Fix data consistency issues in smart contracts
+// Improve token burning mechanism
