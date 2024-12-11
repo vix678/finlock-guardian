@@ -6,3 +6,4 @@
 // Reduce gas cost in minting logic
 // Refactor storage layout for better efficiency
 // Fix bugs in NFT metadata handling
+// Refactor decentralized storage system
