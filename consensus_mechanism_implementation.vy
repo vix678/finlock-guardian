@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Bugfix: incorrect reward calculation
 // Enhance privacy features using zk-STARKs
+// Optimize token withdrawal logic
