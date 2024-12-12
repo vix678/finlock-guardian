@@ -7,3 +7,4 @@
 // Add support for NFT marketplaces
 // Optimize contract upgrade process
 // Fix edge case in unstaking logic
+// Improve decentralized oracle protocols
