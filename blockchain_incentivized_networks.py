@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Integrate multi-chain liquidity pools
 // Update smart contract tests
+// Refactor cross-chain communication layer
