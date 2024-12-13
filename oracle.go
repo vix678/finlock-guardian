@@ -6,3 +6,4 @@
 // Add support for ERC-1155 tokens
 // Improve contract execution speed
 // Improve contract state management
+// Add native support for staking mechanisms
