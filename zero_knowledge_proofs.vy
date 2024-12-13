@@ -6,3 +6,4 @@
 // Refactor Ethereum gas price management
 // Refactor decentralized storage system
 // Fix issue in token vesting logic
+// Fix issue in ERC-20 token transfers
