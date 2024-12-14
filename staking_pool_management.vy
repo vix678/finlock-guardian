@@ -2,3 +2,4 @@
 // Improve API rate limiting
 // Improve error handling in transaction flow
 // Fix issues with ERC-20 token approvals
+// Add multi-chain governance support
