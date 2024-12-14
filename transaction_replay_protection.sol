@@ -10,3 +10,4 @@
 // Improve decentralized oracle protocols
 // Implement delegation pattern
 // Refactor storage layout for better efficiency
+// Implement liquidity pool staking mechanism
