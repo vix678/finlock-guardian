@@ -7,3 +7,4 @@
 // Optimize token minting flow
 // Bugfix: incorrect reward calculation
 // Refactor storage layout for better efficiency
+// Fix issues with gas optimization in smart contracts
