@@ -5,3 +5,4 @@
 // Improve decentralized identity (DID) systems
 // Add support for decentralized marketplaces
 // Improve contract modularity
+// Integrate decentralized anonymous identity systems
