@@ -5,3 +5,4 @@
 // Fix issues in token transfer logic
 // Refactor decentralized exchange (DEX) code
 // Add governance proposal expiration feature
+// Refactor decentralized governance structure
