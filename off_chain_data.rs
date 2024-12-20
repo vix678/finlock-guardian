@@ -6,3 +6,4 @@
 // Add new RPC endpoint
 // Enhance privacy features using zk-STARKs
 // Optimize token minting flow
+// Refactor ERC-721 transfer logic
