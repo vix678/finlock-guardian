@@ -6,3 +6,4 @@
 // Add new RPC endpoint
 // Implement performance optimizations for DeFi
 // Add new RPC endpoint
+// Improve DApp transaction flow
