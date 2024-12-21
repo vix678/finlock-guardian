@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles
 // Fix vulnerabilities in staking contracts
 // Optimize contract storage for gas reduction
+// Integrate Chainlink VRF for randomness
