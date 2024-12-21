@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Improve error handling in transaction flow
 // Enhance developer documentation
+// Fix issues with token transfer confirmations
