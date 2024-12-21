@@ -4,3 +4,4 @@
 // Integrate with decentralized prediction markets
 // Integrate automated market maker (AMM) logic
 // Refactor wallet interaction logic
+// Improve security in decentralized applications
