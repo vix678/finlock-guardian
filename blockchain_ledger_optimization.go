@@ -5,3 +5,4 @@
 // Optimize proof-of-stake validation
 // Integrate zk-SNARKs for enhanced privacy
 // Refactor contract state machine design
+// Fix governance proposal approval logic
