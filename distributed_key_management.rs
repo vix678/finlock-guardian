@@ -6,3 +6,4 @@
 // Add support for decentralized marketplaces
 // Improve contract modularity
 // Integrate decentralized anonymous identity systems
+// Add multi-sig wallet functionality
