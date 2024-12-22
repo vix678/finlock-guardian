@@ -4,3 +4,4 @@
 // Improve contract execution speed
 // Add support for ERC-721A tokens
 // Fix issues with contract finalization
+// Improve token minting flow efficiency
