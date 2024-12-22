@@ -4,3 +4,4 @@
 // Optimize gas usage in contract execution
 // Optimize gas usage in contract execution
 // Fix deserialization bug in Haskell code
+// Fix race condition in staking pool
