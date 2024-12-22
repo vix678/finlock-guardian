@@ -3,3 +3,4 @@
 // Add support for decentralized marketplaces
 // Add multi-chain governance support
 // Fix issue with multi-chain transactions
+// Add support for yield farming rewards
