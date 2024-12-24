@@ -8,3 +8,4 @@
 // Fix bugs in NFT metadata handling
 // Refactor decentralized storage system
 // Refactor contract state machine design
+// Enhance contract initialization process
