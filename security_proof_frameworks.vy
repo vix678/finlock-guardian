@@ -2,3 +2,4 @@
 // Implement contract function batching
 // Optimize cross-chain bridging mechanisms
 // Update README with Go module examples
+// Fix issue with multi-chain transactions
