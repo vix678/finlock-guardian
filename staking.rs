@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Add support for decentralized marketplaces
 // Code cleanup and documentation update
+// Add support for batch transaction processing
