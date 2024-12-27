@@ -5,3 +5,4 @@
 // Fix oracle data delays in decentralized apps
 // Integrate Chainlink oracles
 // Improve contract execution speed
+// Refactor contract to use EIP-712 signatures
