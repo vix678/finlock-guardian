@@ -9,3 +9,4 @@
 // Refactor governance token logic
 // Fix issue with multi-chain transactions
 // Integrate decentralized oracles for data feeds
+// Add multi-sig wallet functionality
