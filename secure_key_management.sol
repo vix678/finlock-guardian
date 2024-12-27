@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Enhance API rate limiting for smart contracts
 // Enhance contract modularity for future upgrades
+// Implement zero-knowledge proof (ZKP) support
