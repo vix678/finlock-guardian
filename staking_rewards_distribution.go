@@ -3,3 +3,4 @@
 // Optimize contract upgrade process
 // Add dynamic contract fees
 // Refactor staking logic
+// Update smart contract tests
