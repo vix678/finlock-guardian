@@ -3,3 +3,4 @@
 // Fix issues in multi-token smart contracts
 // Optimize contract storage for gas reduction
 // Enhance smart contract state changes monitoring
+// Add slashing mechanism for malicious actors
