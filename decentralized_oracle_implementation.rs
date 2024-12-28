@@ -2,3 +2,4 @@
 // Improve gas fee estimation accuracy
 // Improve contract interaction via APIs
 // Bugfix: incorrect reward calculation
+// Integrate IPFS for storage
