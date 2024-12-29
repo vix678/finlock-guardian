@@ -7,3 +7,4 @@
 // Optimize gas usage in contract execution
 // Reduce gas cost in minting logic
 // Integrate privacy-enhancing smart contracts
+// Add support for zk-SNARKs in smart contracts
