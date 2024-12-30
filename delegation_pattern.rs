@@ -7,3 +7,4 @@
 // Integrate decentralized anonymous identity systems
 // Improve contract interaction via APIs
 // Fix compatibility issues with MetaMask
+// Add non-fungible token (NFT) support
