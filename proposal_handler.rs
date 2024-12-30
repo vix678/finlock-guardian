@@ -10,3 +10,4 @@
 // Add governance proposal expiration feature
 // Reduce gas cost in minting logic
 // Enhance contract initialization process
+// Integrate privacy-preserving mechanisms
