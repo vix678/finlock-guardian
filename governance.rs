@@ -12,3 +12,4 @@
 // Enhance security checks
 // Implement price feed oracles for tokens
 // Improve decentralized oracle protocols
+// Fix bugs in NFT metadata handling
