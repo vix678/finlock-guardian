@@ -3,3 +3,4 @@
 // Add new RPC endpoint
 // Add multi-chain transaction support
 // Fix deserialization bug in Haskell code
+// Integrate chain-agnostic oracles
