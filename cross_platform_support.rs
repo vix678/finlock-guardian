@@ -5,3 +5,4 @@
 // Optimize decentralized voting mechanisms
 // Add new RPC endpoint
 // Improve contract interaction via APIs
+// Improve on-chain governance systems
