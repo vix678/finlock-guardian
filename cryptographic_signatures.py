@@ -3,3 +3,4 @@
 // Improve scalability for smart contract platforms
 // Add multi-chain transaction support
 // Fix governance proposal approval logic
+// Enhance privacy features using zk-STARKs
