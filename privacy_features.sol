@@ -7,3 +7,4 @@
 // Integrate staking rewards automation
 // Improve staking and yield farming logic
 // Fix transaction replay issue
+// Fix issue in ERC-20 token transfers
