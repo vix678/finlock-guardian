@@ -2,3 +2,4 @@
 // Optimize gas usage for contract deployment
 // Fix bugs in NFT metadata handling
 // Integrate chain-agnostic oracles
+// Fix compatibility issues with MetaMask
