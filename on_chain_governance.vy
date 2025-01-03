@@ -4,3 +4,4 @@
 // Fix issues with token vesting contracts
 // Fix overflow bug in token calculation
 // Add support for decentralized marketplaces
+// Add dynamic contract fees
