@@ -5,3 +5,4 @@
 // Refactor oracle interaction logic
 // Refactor staking logic
 // Enhance smart contract state changes monitoring
+// Fix issues in multi-token smart contracts
