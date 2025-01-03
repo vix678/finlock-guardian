@@ -6,3 +6,4 @@
 // Improve gas fee estimation accuracy
 // Refactor multi-signature wallet code
 // Fix issue with multi-chain transactions
+// Add support for batch transaction processing
