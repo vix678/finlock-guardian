@@ -5,3 +5,4 @@
 // Improve error handling in transaction flow
 // Fix compatibility issues with major wallets
 // Add support for ERC-1155 tokens
+// Add Layer-2 Ethereum scaling solutions
