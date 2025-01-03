@@ -5,3 +5,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix interoperability issues with other blockchains
 // Add support for batch transaction processing
+// Fix issues with ERC-20 token approvals
