@@ -10,3 +10,4 @@
 // Refactor staking logic
 // Fix ERC-20 token interface bugs
 // Optimize contract upgrade process
+// Fix issue with multi-chain transactions
