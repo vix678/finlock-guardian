@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Implement dynamic fee adjustment
 // Add dynamic contract upgrade mechanisms
+// Add support for fractional token ownership
