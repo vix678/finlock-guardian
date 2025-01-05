@@ -5,3 +5,4 @@
 // Implement cross-platform contract compatibility
 // Add slashing mechanism for malicious actors
 // Add automated smart contract testing
+// Fix issue with multi-chain transactions
