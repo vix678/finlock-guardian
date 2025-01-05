@@ -5,3 +5,4 @@
 // Implement cross-platform contract compatibility
 // Fix issues with contract finalization
 // Refactor storage layout for better efficiency
+// Add support for DeFi lending protocols
