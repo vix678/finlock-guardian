@@ -8,3 +8,4 @@
 // Enhance governance contract flexibility
 // Integrate privacy-preserving mechanisms
 // Implement liquidity pool staking mechanism
+// Implement delegation pattern
