@@ -12,3 +12,4 @@
 // Implement adaptive block size for Ethereum
 // Improve contract auditing tools
 // Fix bug in random number generation
+// Fix scalability issues with smart contracts
