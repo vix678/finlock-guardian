@@ -8,3 +8,4 @@
 // Implement automatic transaction retries
 // Refactor staking logic
 // Integrate flash loan functionality
+// Implement dynamic fee adjustment
