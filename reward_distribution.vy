@@ -5,3 +5,4 @@
 // Add native support for staking rewards
 // Integrate zk-SNARKs for enhanced privacy
 // Implement dynamic fee adjustment
+// Improve API rate limiting
