@@ -8,3 +8,4 @@
 // Add support for decentralized content distribution
 // Integrate Chainlink VRF for randomness
 // Enhance smart contract upgradeability
+// Fix type mismatch in Haskell smart contract
