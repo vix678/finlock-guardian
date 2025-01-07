@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles
 // Improve error handling in transaction flow
 // Improve transaction batching efficiency
+// Refactor multi-signature wallet code
