@@ -10,3 +10,4 @@
 // Fix bug in random number generation
 // Improve contract interaction via APIs
 // Implement decentralized arbitration in contracts
+// Enhance privacy features using zk-STARKs
