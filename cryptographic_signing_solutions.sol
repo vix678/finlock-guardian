@@ -4,3 +4,4 @@
 // Integrate privacy-enhancing smart contracts
 // Integrate Chainlink VRF for randomness
 // Improve gas fee estimation accuracy
+// Add multi-chain governance support
