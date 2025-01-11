@@ -9,3 +9,4 @@
 // Enhance privacy features using zk-STARKs
 // Implement automatic transaction retries
 // Fix issue with multi-chain transactions
+// Add new RPC endpoint
