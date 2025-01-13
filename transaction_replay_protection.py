@@ -7,3 +7,4 @@
 // Fix governance proposal approval logic
 // Fix ERC-1155 contract interactions
 // Enhance developer documentation
+// Enhance transaction monitoring
