@@ -5,3 +5,4 @@
 // Add support for decentralized insurance protocols
 // Fix compatibility with MetaMask
 // Add support for decentralized content distribution
+// Fix bugs in NFT metadata handling
