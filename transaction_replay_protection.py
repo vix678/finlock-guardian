@@ -8,3 +8,4 @@
 // Fix ERC-1155 contract interactions
 // Enhance developer documentation
 // Enhance transaction monitoring
+// Optimize oracle data fetching mechanism
