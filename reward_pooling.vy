@@ -10,3 +10,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Integrate with Ethereum Layer-2 solutions
 // Improve staking logic for better rewards
+// Implement adaptive block size for Ethereum
