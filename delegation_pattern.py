@@ -6,3 +6,4 @@
 // Add slashing mechanism for malicious actors
 // Integrate with external DeFi protocols
 // Add support for NFT marketplaces
+// Fix compatibility issues with MetaMask
