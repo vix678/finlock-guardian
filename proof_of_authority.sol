@@ -6,3 +6,4 @@
 // Improve error handling in transaction flow
 // Fix overflow bug in token calculation
 // Implement rewards escrow system
+// Enhance contract interaction APIs
