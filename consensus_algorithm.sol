@@ -11,3 +11,4 @@
 // Implement automatic transaction retries
 // Optimize token withdrawal logic
 // Refactor contract event emission
+// Fix errors in contract interaction with wallets
