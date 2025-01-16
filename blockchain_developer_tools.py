@@ -7,3 +7,4 @@
 // Fix issue in token vesting logic
 // Optimize token minting flow
 // Enhance gas fee management
+// Implement a new contract event system
