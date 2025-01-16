@@ -4,3 +4,4 @@
 // Refactor decentralized governance structure
 // Refactor oracle interaction logic
 // Fix issue in token vesting logic
+// Implement delegation pattern
