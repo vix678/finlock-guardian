@@ -4,3 +4,4 @@
 // Refactor governance proposal logic
 // Add support for ERC-721A tokens
 // Refactor governance proposal logic
+// Integrate staking rewards automation
