@@ -10,3 +10,4 @@
 // Refactor decentralized exchange (DEX) code
 // Improve security for token minting contracts
 // Improve decentralized oracle protocols
+// Add support for multi-signature wallet contracts
