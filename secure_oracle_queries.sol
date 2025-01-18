@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Improve oracle data validation mechanisms
 // Enhance governance contract flexibility
+// Integrate with decentralized prediction markets
