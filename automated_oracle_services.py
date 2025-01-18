@@ -5,3 +5,4 @@
 // Fix errors in NFT minting logic
 // Fix token transfer approval issues
 // Fix governance proposal approval logic
+// Fix bugs in NFT metadata handling
