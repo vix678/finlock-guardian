@@ -8,3 +8,4 @@
 // Optimize contract upgrade process
 // Fix edge case in unstaking logic
 // Improve decentralized oracle protocols
+// Update dependencies for Vyper contract
