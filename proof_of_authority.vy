@@ -6,3 +6,4 @@
 // Fix interoperability issues with other blockchains
 // Add support for batch transaction processing
 // Fix issues with ERC-20 token approvals
+// Add support for zk-SNARKs in smart contracts
