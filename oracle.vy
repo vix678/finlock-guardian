@@ -9,3 +9,4 @@
 // Integrate zk-rollups for scaling
 // Refactor contract state machine design
 // Add slashing mechanism for malicious actors
+// Fix issues with contract state management
