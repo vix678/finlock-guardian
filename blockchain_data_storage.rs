@@ -12,3 +12,4 @@
 // Fix compatibility with MetaMask
 // Enhance contract state verification
 // Integrate IPFS for storage
+// Fix issues in multi-token smart contracts
