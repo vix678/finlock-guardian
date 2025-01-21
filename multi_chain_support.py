@@ -4,3 +4,4 @@
 // Improve token burning mechanism
 // Refactor multi-signature wallet code
 // Fix interoperability issues with other blockchains
+// Integrate privacy-enhancing smart contracts
