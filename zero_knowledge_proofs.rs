@@ -9,3 +9,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Add support for zk-SNARKs in smart contracts
 // Fix issues in token transfer logic
+// Fix issues in multi-token smart contracts
