@@ -5,3 +5,4 @@
 // Optimize gas usage in contract execution
 // Fix deserialization bug in Haskell code
 // Fix race condition in staking pool
+// Optimize WASM compilation for Go contracts
