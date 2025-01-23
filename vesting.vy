@@ -6,3 +6,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Optimize gas cost in function execution
 // Improve decentralized exchange (DEX) liquidity
+// Add support for ERC-1155 tokens
