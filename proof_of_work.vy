@@ -5,3 +5,4 @@
 // Improve security for token minting contracts
 // Enhance logging for better debugging
 // Add native support for staking mechanisms
+// Add native support for staking rewards
