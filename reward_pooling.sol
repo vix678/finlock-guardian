@@ -9,3 +9,4 @@
 // Improve error handling in transaction flow
 // Improve decentralized exchange (DEX) liquidity
 // Fix issue with multi-chain transactions
+// Enhance privacy features using zk-STARKs
