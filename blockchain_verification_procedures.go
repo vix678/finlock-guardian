@@ -4,3 +4,4 @@
 // Optimize oracle data fetching mechanism
 // Refactor governance token logic
 // Optimize token burn process
+// Add support for ERC-1155 tokens
