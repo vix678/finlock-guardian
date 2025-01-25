@@ -9,3 +9,4 @@
 // Fix memory leak in Rust smart contract
 // Fix edge case in unstaking logic
 // Enhance contract initialization process
+// Fix issues with token vesting contracts
