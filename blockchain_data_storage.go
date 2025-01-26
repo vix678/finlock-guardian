@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Enhance smart contract compatibility
 // Optimize hashing algorithm
+// Fix vulnerabilities in staking contracts
