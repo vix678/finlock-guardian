@@ -3,3 +3,4 @@
 // Improve on-chain governance systems
 // Add support for decentralized marketplaces
 // Fix memory leak in Rust smart contract
+// Update README with Go module examples
