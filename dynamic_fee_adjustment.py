@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Add support for decentralized auctions
 // Fix issue with multi-chain transactions
+// Add non-fungible token (NFT) support
