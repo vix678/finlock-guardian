@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Refactor incentive structure in DeFi protocol
 // Implement on-chain identity verification
+// Refactor reward pooling algorithm
