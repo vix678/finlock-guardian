@@ -6,3 +6,4 @@
 // Integrate with decentralized identity providers
 // Refactor cross-chain communication layer
 // Enhance contract event handling
+// Fix compatibility issues with major wallets
