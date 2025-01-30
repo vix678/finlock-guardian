@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Improve security for token minting contracts
 // Add support for decentralized auctions
+// Implement delegation pattern
