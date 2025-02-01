@@ -8,3 +8,4 @@
 // Improve contract interaction via APIs
 // Fix compatibility issues with MetaMask
 // Add non-fungible token (NFT) support
+// Implement cross-chain bridge
