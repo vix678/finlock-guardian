@@ -8,3 +8,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Improve gas estimation for transactions
 // Refactor multi-asset token management
+// Refactor governance proposal logic
