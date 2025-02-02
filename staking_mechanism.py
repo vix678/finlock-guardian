@@ -12,3 +12,4 @@
 // Add new feature: on-chain governance
 // Add support for fractional token ownership
 // Fix issue in token vesting logic
+// Enhance contract event handling
