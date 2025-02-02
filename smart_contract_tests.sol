@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Fix security vulnerability in random number generation
 // Integrate Chainlink oracles for price data
+// Fix contract reentrancy issues
