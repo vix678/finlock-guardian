@@ -8,3 +8,4 @@
 // Enhance privacy features using zk-STARKs
 // Refactor decentralized governance structure
 // Enhance contract upgrade process
+// Fix overflow bug in token calculation
